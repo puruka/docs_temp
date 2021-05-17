@@ -9,7 +9,7 @@
   * [Update](optikpi-user-guide-lists.md#Lists-Update)
   * [Delete](optikpi-user-guide-lists.md#Lists-Delete)
 * [CSV](optikpi-user-guide-lists.md#Lists-CSV)
-  * [Create](optikpi-user-guide-lists.md#Lists-Create.1)
+  * [Create](https://app.gitbook.com/@puru/s/optikpi-user-guide/~/drafts/-MYubqWgT-SbgBLgFFF9/optikpi-user-guide-lists#Lists-Create.1)
   * [Update](optikpi-user-guide-lists.md#Lists-Update.1)
   * [Delete](optikpi-user-guide-lists.md#Lists-Delete.1)
   * [Data Types](optikpi-user-guide-lists.md#Lists-DataTypes)
@@ -23,13 +23,17 @@ Use Retention List for keeping or containing data of existing customers. You can
 
 Lists are storage units to track customer profiles and events.
 
+{% hint style="info" %}
 Customer List is a place where you can track the profiles of your customers. The Customer List holds the user profile data like Email, Phone, etc.
+{% endhint %}
 
-### Event <a id="Lists-Event"></a>
+### Event
 
-Lists are storage units to track customer profiles and events
+Lists are storage units to track customer profiles and events.
 
+{% hint style="info" %}
 Event List is a place where you can track customers' events. Like “Login", "Transaction", "Clicks" etc. Event List is a list that tracks relevant user events. There can be more than one event list.
+{% endhint %}
 
 ## Acquisition <a id="Lists-Acquisition"></a>
 
@@ -121,7 +125,7 @@ I. You can change any List by clicking on the “pen” icon.
 
 ![](.gitbook/assets/288325679.jpg)
 
-3. While Updating List you can update List Description, set new Schema Definition, delete ou add a new column.
+3. While Updating List you can update List Description, set new Schema Definition, delete or add a new column.
 
 ![](.gitbook/assets/289046547.jpg)
 
@@ -160,53 +164,75 @@ Here you will know how to create a CSV List.
 
 I. Start creating a List by pressing the "New Customer List" button From the "Lists" home screen.
 
-![](.gitbook/assets/271515745.jpg)
+![](.gitbook/assets/lu_1.jpg)
 
 2. Provide List name, List Description and choose List source \(CSV List\).
 
-![](.gitbook/assets/271515751.jpg)
+![](.gitbook/assets/lu_2.jpg)
 
-3. Choose a file that contains data.
+3. Choose List Mode.
 
-![](.gitbook/assets/271515757.jpg)
+Draft mode is the default mode for opening a draft List for viewing and editing. All commands are available. But List in a draft mode is not available for Card/Segment creation. You can set a draft List to active mode using the Edit by choosing Active Mode in the List Mode field
 
-4. Set Schema Definition.
+![](.gitbook/assets/lu_3.jpg)
 
-![](.gitbook/assets/271515763.jpg)
+4. Provide List description.
 
-5. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
+![](.gitbook/assets/lu_4.jpg)
 
-![](.gitbook/assets/271515769.jpg)
+5. Select the CSV file and download it.
 
-6. Switching on the field **“Is metric field”** you can point this data like a metric.
+![](.gitbook/assets/lu_5.jpg)
 
-![](.gitbook/assets/271515775.jpg)
+6. Set Schema Definition.
 
-7. Switching on the field “**Add to Table”** you can add/remove data to/from your List.
+![](.gitbook/assets/lu_6jpg.jpg)
 
-![](.gitbook/assets/271515781.jpg)
+7. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
 
-8. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
+![](.gitbook/assets/lu_8.jpg)
 
-![](.gitbook/assets/271515787.jpg)
+8. Switching on the field **“Is metric field”** you can point this data like a metric.
 
-9. Clicking on the field **X** you can delete data from the list.
+![](.gitbook/assets/lu_7.jpg.jpg)
 
-![](.gitbook/assets/271515793.jpg)
+9. Switching on the field “**Add to Table”** you can add/remove data to/from your List.
 
- 10. Map the following details from the List fields.
+![](.gitbook/assets/lu_9.jpg)
+
+10. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
+
+![](.gitbook/assets/lu_10.jpg)
+
+11. Clicking on the field **X** you can delete data from the list.
+
+![](.gitbook/assets/lu_11.jpg)
+
+ 11.  You can add a new column by providing Field Name, Header, Data Type and set other scheme definitions. Press the "Add" button in final.
+
+![](.gitbook/assets/lu_12.jpg)
+
+12. Press the "Next" button to go to the next step.
+
+![](.gitbook/assets/lu_13.jpg)
+
+13. Field Mapping.  Map the following details from the List fields.
 
 | **Name** | **Description** |
 | :--- | :--- |
-| `User/Customer Id` | Unique Identifier of each Customer. Please note, this should be the same column in all the list |
 | `Unique Id` | Unique Identifier of each record in the list |
-| `Push Tokens` | Field which stores device-specific push tokens as a string array |
-| `Phone Contact` | Field which stores the customer phone number value, used in SMS Communication |
+| `User/customer` | Unique Identifier of each Customer. Please note, this should be the same column in all the lists |
 | `Email` | Field which stores the customer email, used for Email Communication |
+| `Phone Contact` | Field which stores the customer phone number value, used in SMS Communication |
+| `Push Tokens` | Field which stores device-specific push tokens as a string array |
 
-11. Press the button “**Create CSV List”** and your list will be created.
+![](.gitbook/assets/lu_14.jpg)
 
-![](.gitbook/assets/288096326.jpg)
+14. Press the button “**Create CSV List”** and your list will be created.
+
+![](.gitbook/assets/lu_15.jpg)
+
+![](.gitbook/assets/lu_16.jpg)
 
 
 
