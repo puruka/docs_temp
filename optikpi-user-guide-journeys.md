@@ -22,7 +22,7 @@ Working with Journey, consider the following categories:
 * **Journey Actions** - allow to integrate with delivery channels.
 * **Journey tools** - help you to design Journey execution logic.
 
-Journey features - description of Journey functions. 
+**Journey features** - description of Journey functions. 
 
 | Feature | Description |
 | :--- | :--- |
@@ -32,7 +32,7 @@ Journey features - description of Journey functions.
 | Activate | Make Journey active |
 | Deactivate | Make Journey inactive, stop actions' launching |
 
-Journey Actions - allow to integrate with delivery channels.
+**Journey Actions** - allow to integrate with delivery channels.
 
 | Actions | Descriopion |
 | :--- | :--- |
@@ -41,7 +41,7 @@ Journey Actions - allow to integrate with delivery channels.
 | Email | The action is an email notification, can be plain text or styled using HTML |
 | Web | Action will be sent out based on the action definition. |
 
-Journey tools - help you to design Journey execution logic.
+**Journey tools** - help you to design Journey execution logic.
 
 | Tools | Description |
 | :--- | :--- |
@@ -265,19 +265,31 @@ I. Provide the Name.
 
 ### Exit Journey
 
-"Exit Journey" block allows to measure the percentage of actions execution
+"Exit Journey" block allows to measure the percentage of actions execution.
+
+Every Journey should have at least 1 exit Journey goal.
 
 ![](.gitbook/assets/t14.jpg)
-
-#### 
 
 
 
 ### Push Action
 
+Is the action with a message that pops up on the user's device.
 
+I. Double click on the "Push Action" block opens it.
+
+![](.gitbook/assets/1.png)
+
+2. Now you can start filling the "Push Action" form.
 
 ![](.gitbook/assets/t3.jpg)
+
+3. Provide Name, Config, Title, Message, Image. 
+
+![](.gitbook/assets/image%20%2870%29.png)
+
+4. 
 
 ![](.gitbook/assets/t4.jpg)
 
