@@ -289,31 +289,95 @@ I. Double click on the "Push Action" block opens it.
 
 ![](.gitbook/assets/image%20%2870%29.png)
 
-4. 
+4. In the menu tab "Branches" set the number of branches that you need.
 
-![](.gitbook/assets/t4.jpg)
+![](.gitbook/assets/image%20%2875%29.png)
+
+5. Now you can close the block.
+
+![](.gitbook/assets/image%20%2880%29.png)
 
 ### 
 
 ### SMS Action
 
+Is the action through outgoing SMS text messages to different recipients
+
+I. Double click on the "SMS Action" block opens it.
+
+![](.gitbook/assets/image%20%2872%29.png)
+
+2. Now you can start filling the "SMS Action" form.
+
 ![](.gitbook/assets/t5.jpg)
+
+3. Provide Name, Config, Message.
+
+![](.gitbook/assets/image%20%2878%29.png)
+
+4. In the menu tab "Branches" set the number of branches that you need.
 
 ![](.gitbook/assets/t6.jpg)
 
+5. Now you can close the block.
+
+![](.gitbook/assets/image%20%2879%29.png)
+
 ### Email Action
 
-![](.gitbook/assets/t7.jpg)
+The action is an email notification, can be plain text or styled using HTML.
 
-![](.gitbook/assets/t8.jpg)
+I. Double click on the "E-mail Action" block opens it.
+
+![](.gitbook/assets/image%20%2876%29.png)
+
+2. Now you can start filling the "E-mail Action" form.
+
+![](.gitbook/assets/image%20%2873%29.png)
+
+3. Provide Name, Config, Subject,  Preheader.
+
+![](.gitbook/assets/image%20%2871%29.png)
+
+4. Choose Templates. 
+
+![](.gitbook/assets/image%20%2877%29.png)
+
+5. In the menu tab "Branches" set the number of branches that you need.
+
+![](.gitbook/assets/image%20%2874%29.png)
+
+6. Now you can close the block.
+
+![](.gitbook/assets/image%20%2884%29.png)
+
+
 
 ### Web Action
 
-![](.gitbook/assets/t9.jpg)
+Action will be sent out based on the action definition.
+
+I. Double click on the "Web Action" block opens it.
+
+![](.gitbook/assets/image%20%2881%29.png)
+
+2. Now you can start filling the "Web Action" form.
+
+![](.gitbook/assets/image%20%2882%29.png)
+
+3. Provide Name, Select Config.
+
+![](.gitbook/assets/image%20%2883%29.png)
+
+4. In the menu tab "Branches" set the number of branches that you need.
 
 ![](.gitbook/assets/t10.jpg)
 
+5. Now you can close the block.
 
+![](.gitbook/assets/image%20%2885%29.png)
+
+### 
 
 ## Edit Journey
 
