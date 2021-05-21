@@ -291,11 +291,11 @@ I. Double click on the "Push Action" block opens it.
 
 4. In the menu tab "Branches" set the number of branches that you need.
 
-![](.gitbook/assets/image%20%2875%29.png)
+![](.gitbook/assets/image%20%2878%29.png)
 
 5. Now you can close the block.
 
-![](.gitbook/assets/image%20%2880%29.png)
+![](.gitbook/assets/image%20%2895%29.png)
 
 ### 
 
@@ -305,7 +305,7 @@ Is the action through outgoing SMS text messages to different recipients
 
 I. Double click on the "SMS Action" block opens it.
 
-![](.gitbook/assets/image%20%2872%29.png)
+![](.gitbook/assets/image%20%2873%29.png)
 
 2. Now you can start filling the "SMS Action" form.
 
@@ -313,7 +313,7 @@ I. Double click on the "SMS Action" block opens it.
 
 3. Provide Name, Config, Message.
 
-![](.gitbook/assets/image%20%2878%29.png)
+![](.gitbook/assets/image%20%2884%29.png)
 
 4. In the menu tab "Branches" set the number of branches that you need.
 
@@ -321,7 +321,7 @@ I. Double click on the "SMS Action" block opens it.
 
 5. Now you can close the block.
 
-![](.gitbook/assets/image%20%2879%29.png)
+![](.gitbook/assets/image%20%2891%29.png)
 
 ### Email Action
 
@@ -329,27 +329,27 @@ The action is an email notification, can be plain text or styled using HTML.
 
 I. Double click on the "E-mail Action" block opens it.
 
-![](.gitbook/assets/image%20%2876%29.png)
+![](.gitbook/assets/image%20%2880%29.png)
 
 2. Now you can start filling the "E-mail Action" form.
 
-![](.gitbook/assets/image%20%2873%29.png)
+![](.gitbook/assets/image%20%2874%29.png)
 
 3. Provide Name, Config, Subject,  Preheader.
 
-![](.gitbook/assets/image%20%2871%29.png)
+![](.gitbook/assets/image%20%2872%29.png)
 
 4. Choose Templates. 
 
-![](.gitbook/assets/image%20%2877%29.png)
+![](.gitbook/assets/image%20%2881%29.png)
 
 5. In the menu tab "Branches" set the number of branches that you need.
 
-![](.gitbook/assets/image%20%2874%29.png)
+![](.gitbook/assets/image%20%2877%29.png)
 
 6. Now you can close the block.
 
-![](.gitbook/assets/image%20%2884%29.png)
+![](.gitbook/assets/image%20%28102%29.png)
 
 
 
@@ -359,15 +359,15 @@ Action will be sent out based on the action definition.
 
 I. Double click on the "Web Action" block opens it.
 
-![](.gitbook/assets/image%20%2881%29.png)
+![](.gitbook/assets/image%20%2898%29.png)
 
 2. Now you can start filling the "Web Action" form.
 
-![](.gitbook/assets/image%20%2882%29.png)
+![](.gitbook/assets/image%20%2899%29.png)
 
 3. Provide Name, Select Config.
 
-![](.gitbook/assets/image%20%2883%29.png)
+![](.gitbook/assets/image%20%28101%29.png)
 
 4. In the menu tab "Branches" set the number of branches that you need.
 
@@ -375,7 +375,7 @@ I. Double click on the "Web Action" block opens it.
 
 5. Now you can close the block.
 
-![](.gitbook/assets/image%20%2885%29.png)
+![](.gitbook/assets/image%20%28103%29.png)
 
 ### 
 

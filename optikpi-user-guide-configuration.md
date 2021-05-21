@@ -10,11 +10,11 @@
 
 1. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](.gitbook/assets/274792480.jpg)
+![](.gitbook/assets/image%20%2887%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/274726951.jpg)
+![](.gitbook/assets/image%20%2892%29.png)
 
 3. Choose “Email Config” in the Up Panel and then press the "Create Email Config" button.
 
@@ -50,11 +50,11 @@
 
 l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](.gitbook/assets/274792480.jpg)
+![](.gitbook/assets/image%20%2894%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/274726951.jpg)
+![](.gitbook/assets/image%20%2876%29.png)
 
 3. Choose “SMS Config” in the Up Panel and then press the "Create SMS Config" button.
 
@@ -90,11 +90,11 @@ l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Ri
 
 l. Start Admin configuration by pressing the "OptiKPI Admin" button on the Up Right Side.
 
-![](.gitbook/assets/274792480.jpg)
+![](.gitbook/assets/image%20%2871%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/274726951.jpg)
+![](.gitbook/assets/image%20%2885%29.png)
 
 3. Choose “Push Config” in the Up Panel and then press the "Create Push Config" button.
 
@@ -122,7 +122,51 @@ l. Start Admin configuration by pressing the "OptiKPI Admin" button on the Up Ri
 
 ## Web API <a id="Configuration-WebAPI"></a>
 
-_… Is coming soon…_
+l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
+
+![](.gitbook/assets/image%20%2890%29.png)
+
+2. Go ahead by pressing the "Admin Settings" icon.
+
+![](.gitbook/assets/image%20%2888%29.png)
+
+3. Choose “Web Api” in the Up Panel and then press the "Create Custom Config" button.
+
+![](.gitbook/assets/image%20%2875%29.png)
+
+4. Provide Api configuration name.
+
+![](.gitbook/assets/image%20%2886%29.png)
+
+5. Choose Provider.
+
+![](.gitbook/assets/image%20%2897%29.png)
+
+6. Set the Status “Enabled”.
+
+![](.gitbook/assets/image%20%2879%29.png)
+
+7. Fill in the "API Endpoint" field.
+
+![](.gitbook/assets/image%20%2893%29.png)
+
+8. Choose Authentication Type if necessary and press the "Next" button.
+
+![](.gitbook/assets/image%20%2882%29.png)
+
+9. Set API Definition and press the "Add" button.
+
+![](.gitbook/assets/image%20%2889%29.png)
+
+10. Press the “Create” button for saving.
+
+![](.gitbook/assets/image%20%2896%29.png)
+
+11. You can see the newly created configuration in the Web Api List Configurations.
+
+![](.gitbook/assets/image%20%28100%29.png)
+
+
 
 ## Time Zone <a id="Configuration-TimeZone"></a>
 
