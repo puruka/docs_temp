@@ -14,4 +14,5 @@
 * [Optikpi User Guide : Dashboards](optikpi-user-guide-dashboards.md)
 * [Optikpi User Guide : User management](optikpi-user-guide-user-management.md)
 * [Optikpi User Guide : Journeys](optikpi-user-guide-journeys.md)
+* [Optikpi User Guide: WebApi](optikpi-user-guide-webapi.md)
 
