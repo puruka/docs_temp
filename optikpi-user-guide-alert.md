@@ -216,7 +216,7 @@ I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
 I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%289%29%20%281%29.png)
 
 2. Click the “Delete” button.
 

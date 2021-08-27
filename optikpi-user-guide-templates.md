@@ -10,11 +10,11 @@
 
 I. Start creating an Email Notification by pressing the "Create New Action" button From the "Actions" home screen.
 
-![](.gitbook/assets/285442073.jpg)
+![](.gitbook/assets/288325639%20%283%29.jpg)
 
  2. Select an action type by choosing “Email Actions”.
 
-![](.gitbook/assets/285442080.jpg)
+![](.gitbook/assets/277741606.jpg)
 
 3. Provide Action’s Name and take action setting according to action’s type \(**triggered,** **recurring** or **single send** action\).
 
@@ -22,7 +22,7 @@ I. Start creating an Email Notification by pressing the "Create New Action" butt
 
 4. After setting criteria click the “Execute” button.
 
-![](.gitbook/assets/285442092.jpg)
+![](.gitbook/assets/277741618.jpg)
 
 5. Select an **Email Configs** - your Email sending provider.
 
@@ -30,31 +30,31 @@ I. Start creating an Email Notification by pressing the "Create New Action" butt
 
 6. Enter email **Subject.**
 
-![](.gitbook/assets/285442104.jpg)
+![](.gitbook/assets/277741630.jpg)
 
 7. Enter **Preheader**. \(Preview Text\).
 
 A preheader is the short summary text that follows the subject line when an email is viewed in the inbox. Many mobile, desktop, and web email clients provide them to tip you off on what the email contains before you open it.
 
-![](.gitbook/assets/285442110.jpg)
+![](.gitbook/assets/277741636%20%281%29.jpg)
 
 8. Create a new Template of your mail message by clicking on the “Create New Template” button.
 
-![](.gitbook/assets/285442116.jpg)
+![](.gitbook/assets/277741642.jpg)
 
 If Template Disabled you will not see it while Email action creation
 
 9. Start creating your Templates by clicking on blue space.
 
-![](.gitbook/assets/285442122.jpg)
+![](.gitbook/assets/277741648.jpg)
 
 10. Drag content from the right-side panel.
 
-![](.gitbook/assets/285442128.jpg)
+![](.gitbook/assets/277741654.jpg)
 
  11. In the text content, you can personalize the text content by adding relevant merge tags.
 
-![](.gitbook/assets/285442134.jpg)
+![](.gitbook/assets/277741660.jpg)
 
 12. Use a small black panel for preview how your Template looks on different devices.
 
@@ -62,7 +62,7 @@ If Template Disabled you will not see it while Email action creation
 
 13. Press the “Next” button for the next step.
 
-![](.gitbook/assets/285442146.jpg)
+![](.gitbook/assets/277741672.jpg)
 
 14. System will offer you to save the current Email Template. Enter the Name and press “Next”. Or “Skip Save” if you don’t need saving.
 
@@ -70,23 +70,23 @@ If Template Disabled you will not see it while Email action creation
 
 15. Check **Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/285442158.jpg)
+![](.gitbook/assets/277741684.jpg)
 
 16. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
-![](.gitbook/assets/285442164.jpg)
+![](.gitbook/assets/277741690%20%281%29.jpg)
 
 17. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/285442170.jpg)
+![](.gitbook/assets/285442170%20%281%29.jpg)
 
 18. "Save and Launch" means that your campaign will be started according to your settings. Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/285442176.jpg)
+![](.gitbook/assets/277741702.jpg)
 
 19. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/285442182.jpg)
+![](.gitbook/assets/277741708%20%281%29.jpg)
 
 
 
@@ -134,7 +134,7 @@ I. Start creating a new Template by pressing the "Create New Template" button fr
 
 9. You can add HTML-code to your Templates - copy it to your clipboard \(from the HTML-file or from the Provider’s side\).
 
-![](.gitbook/assets/413925377.jpg)
+![](.gitbook/assets/413597702%20%281%29.jpg)
 
 10. In your Template open HTML viewer by drugging the “HTML” tool from the right-side panel.
 
@@ -144,7 +144,7 @@ I. Start creating a new Template by pressing the "Create New Template" button fr
 
 11. Paste the HTML snippet you just copied into your HTML viewer window.
 
-![](.gitbook/assets/414384143.png)
+![](.gitbook/assets/414384143%20%281%29.png)
 
 12. Press the “save” button
 
@@ -156,7 +156,7 @@ I. Start creating a new Template by pressing the "Create New Template" button fr
 
 14. You will see your Template on the main home screen.
 
-![](.gitbook/assets/image%20%2860%29.png)
+![](.gitbook/assets/414056466%20%281%29.png)
 
 
 
@@ -170,7 +170,7 @@ I. Start creating a new Template by pressing the "Create New Template" button fr
 
 I. Start editing Template by by clicking on 3 dots on the Action - Email Templates panel, a popup with comes up. Click the “Edit” button
 
-![](.gitbook/assets/285835301.jpg)
+![](.gitbook/assets/286162957%20%281%29.jpg)
 
 2. Switch on/off button allows Enable/Disable your Template.
 
@@ -213,7 +213,7 @@ I. Start cloning Template by clicking on 3 dots on the Action - Email Templates 
 
 I. Start deleting Template by clicking on 3 dots on the Action - Email Templates panel, a popup with comes up. Click the “Delete” button.
 
-![](.gitbook/assets/285540380.jpg)
+![](.gitbook/assets/278691931.jpg)
 
 2. Press “Proceed to Delete” to finish.
 

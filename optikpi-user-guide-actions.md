@@ -53,7 +53,7 @@ Triggered Action scheduled to run every 5 minutes since launched till date which
 
 I. Start creating a new Action by pressing the "Create New Action" button from the "Actions" - “Triggered” home screen.
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2813%29%20%281%29.png)
 
 2. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
@@ -61,7 +61,7 @@ I. Start creating a new Action by pressing the "Create New Action" button from t
 
 3. Provide Action’s name. 
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 4. Provide Action Name; End Date. And press the Next button.
 
@@ -93,27 +93,27 @@ Triggered Action scheduled to run every 5 minutes since launched till date which
 
 10. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/272039964.jpg)
+![](.gitbook/assets/272039964%20%281%29.jpg)
 
 11. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top. 
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2818%29%20%281%29.png)
 
 12. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271515868.jpg)
+![](.gitbook/assets/271482968%20%283%29.jpg)
 
 13. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/268566670.jpg)
+![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271253661.jpg)
+![](.gitbook/assets/271482949%20%281%29.jpg)
 
 14. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/272007189.jpg)
+![](.gitbook/assets/274563093%20%281%29.jpg)
 
 
 
@@ -158,23 +158,23 @@ I. By clicking on 3 dots on the Action - Triggered panel, a popup with comes up.
 
 4. As well you can go through all steps and change it.
 
-![](.gitbook/assets/272236631.jpg)
+![](.gitbook/assets/271319172.jpg)
 
 5. At the end click to the "Save and Launch" button - in case if you want to save and re-launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271515868.jpg)
+![](.gitbook/assets/271482968%20%283%29.jpg)
 
 6. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since re-launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/268566670.jpg)
+![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271253661.jpg)
+![](.gitbook/assets/271482949%20%281%29.jpg)
 
 7. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/272007189.jpg)
+![](.gitbook/assets/274563093%20%281%29.jpg)
 
 
 
@@ -221,19 +221,19 @@ I. To clone Triggered Action click on 3 dots on the Action - Triggered panel and
 
 4. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271515868.jpg)
+![](.gitbook/assets/271482968%20%283%29.jpg)
 
 5. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/268566670.jpg)
+![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271253661.jpg)
+![](.gitbook/assets/271482949%20%281%29.jpg)
 
 6. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/272007189.jpg)
+![](.gitbook/assets/274563093%20%281%29.jpg)
 
 
 
@@ -317,11 +317,11 @@ Recurring Action can be scheduled up to 1 hour in advance.
 
 I. Start creating a new Action by pressing the "Create New Action" button from the "Actions"- ”Scheduled” home screen.
 
-![](.gitbook/assets/272007179.jpg)
+![](.gitbook/assets/288325639%20%281%29.jpg)
 
 2. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
-![](.gitbook/assets/275054648.jpg)
+![](.gitbook/assets/275054648%20%282%29.jpg)
 
 3. Provide Action’s name
 
@@ -386,27 +386,27 @@ For example, your Campaign can take place every Monday at 12:00 pm.
 
 12. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/272039964.jpg)
+![](.gitbook/assets/272039964%20%281%29.jpg)
 
 13. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
-![](.gitbook/assets/272236631.jpg)
+![](.gitbook/assets/271319172.jpg)
 
 14. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271515868.jpg)
+![](.gitbook/assets/271482968%20%283%29.jpg)
 
 15. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/268566670.jpg)
+![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271253661.jpg)
+![](.gitbook/assets/271482949%20%281%29.jpg)
 
 16. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/272007189.jpg)
+![](.gitbook/assets/274563093%20%281%29.jpg)
 
 
 
@@ -452,23 +452,23 @@ I. By clicking on 3 dots on the Action - Scheduled panel, a popup with comes up.
 
 4. As well you can go through all steps and change it.
 
-![](.gitbook/assets/271220836.jpg)
+![](.gitbook/assets/271220836%20%281%29.jpg)
 
 5. At the end click to the "Save and Launch" button - in case if you want to save and re-launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271515868.jpg)
+![](.gitbook/assets/271482968%20%283%29.jpg)
 
 6. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/268566670.jpg)
+![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271253661.jpg)
+![](.gitbook/assets/271482949%20%281%29.jpg)
 
 7. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/272007189.jpg)
+![](.gitbook/assets/274563093%20%281%29.jpg)
 
 
 
@@ -507,7 +507,7 @@ I. To clone Recurring Action click on 3 dots on the Action - Scheduled panel and
 
 2. Press the “Next” button to continue.
 
-![](.gitbook/assets/271843381.jpg)
+![](.gitbook/assets/271843381%20%281%29.jpg)
 
 3. You can change Template or go ahead.
 
@@ -611,7 +611,7 @@ I. Start creating a new Action by pressing the "Create New Action" button from t
 
 2. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
-![](.gitbook/assets/275054648.jpg)
+![](.gitbook/assets/275054648%20%282%29.jpg)
 
 3. Provide Action’s name and press the “Next” button to continue.
 
@@ -649,7 +649,7 @@ But your Action will proceed just 1 time.
 
 11. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
-![](.gitbook/assets/271220836.jpg)
+![](.gitbook/assets/271220836%20%281%29.jpg)
 
 12. If everything is fine click to the "Launch" button.
 
@@ -837,27 +837,27 @@ You can create an email notification using templates.
 
 I. Start creating an Email Notification by pressing the "Create New Action" button From the "Actions" home screen.
 
-![](.gitbook/assets/272007179.jpg)
+![](.gitbook/assets/288325639%20%281%29.jpg)
 
 2. Select an action type by choosing “Email Actions”.
 
-![](.gitbook/assets/277741606.jpg)
+![](.gitbook/assets/277741606%20%281%29.jpg)
 
 3. Provide Action’s Name and take action setting according to action’s type \(**triggered,** **recurring,** or **single send** action\).
 
-![](.gitbook/assets/277741612.jpg)
+![](.gitbook/assets/285442086%20%281%29.jpg)
 
 4. After setting criteria click the “Execute” button.
 
-![](.gitbook/assets/277741618.jpg)
+![](.gitbook/assets/277741618%20%281%29.jpg)
 
 5. Select an **Email Configs** - your Email sending provider.
 
-![](.gitbook/assets/277741624.jpg)
+![](.gitbook/assets/285442098%20%281%29.jpg)
 
 6. Enter email **Subject.**
 
-![](.gitbook/assets/277741630.jpg)
+![](.gitbook/assets/277741630%20%281%29.jpg)
 
 7. Enter **Preheader**. \(Preview Text\).
 
@@ -867,35 +867,35 @@ A preheader is the short summary text that follows the subject line when an emai
 
 8. Create a new Template of your mail message by clicking on the “Create New Template” button.
 
-![](.gitbook/assets/277741642.jpg)
+![](.gitbook/assets/277741642%20%281%29.jpg)
 
 9. Start of creating of your Templates by clicking on blue space.
 
-![](.gitbook/assets/277741648.jpg)
+![](.gitbook/assets/277741648%20%281%29.jpg)
 
 10. Drag content from the right-side panel.
 
-![](.gitbook/assets/277741654.jpg)
+![](.gitbook/assets/277741654%20%281%29.jpg)
 
 11. In the text content, you can insert Merge Tags in your message.
 
-![](.gitbook/assets/277741660.jpg)
+![](.gitbook/assets/277741660%20%281%29.jpg)
 
 12. Use a small black panel for preview how your Template looks on different devices.
 
-![](.gitbook/assets/277741666.jpg)
+![](.gitbook/assets/285442140%20%281%29.jpg)
 
 13. Press the “Next” button for the next step.
 
-![](.gitbook/assets/277741672.jpg)
+![](.gitbook/assets/277741672%20%281%29.jpg)
 
 14. System will offer you to save the current Email Template. Enter the Name and press “Next”. Or “Skip Save” if you don’t need saving.
 
-![](.gitbook/assets/277741678.jpg)
+![](.gitbook/assets/285442152%20%281%29.jpg)
 
 15. Check **Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/277741684.jpg)
+![](.gitbook/assets/277741684%20%281%29.jpg)
 
 16. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
@@ -903,11 +903,11 @@ A preheader is the short summary text that follows the subject line when an emai
 
 17. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/277741696.jpg)
+![](.gitbook/assets/285442170.jpg)
 
 18. "Save and Launch" means that your campaign will be started according to your settings. Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/277741702.jpg)
+![](.gitbook/assets/277741702%20%281%29.jpg)
 
 19. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
@@ -1003,7 +1003,7 @@ Action can be executed by the following channel:
 
 I. Start creating a Push Notification by pressing "Create New Action" button From "Actions" home screen.
 
-![](.gitbook/assets/272007179.jpg)
+![](.gitbook/assets/288325639%20%281%29.jpg)
 
 2. Select an action type by choosing “Push Notification”
 
@@ -1019,7 +1019,7 @@ I. Start creating a Push Notification by pressing "Create New Action" button Fro
 
 5. Select a **Push Configs** - your push sending provider.
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2837%29%20%281%29.png)
 
 6. Enter **Title** - name of your Action.
 
@@ -1029,7 +1029,7 @@ I. Start creating a Push Notification by pressing "Create New Action" button Fro
 
 Optikpi offers merge tags for all kinds of dynamic information. Choose a merge tag for your push message to add personalized or dynamic content.
 
-![](.gitbook/assets/image%20%2855%29.png)
+![](.gitbook/assets/image%20%283%29%20%281%29.png)
 
 8. Fill **Push Message field**
 
@@ -1079,7 +1079,7 @@ Your Action has “Active” status and in several minutes you will see the data
 
 17.  "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%287%29%20%281%29.png)
 
 * [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
@@ -1169,7 +1169,7 @@ Action can be executed by the following channel:
 
 I. Start creating an SMS Action by pressing the "Create New Action" button From the "Actions" home screen.
 
-![](.gitbook/assets/272007179.jpg)
+![](.gitbook/assets/288325639%20%281%29.jpg)
 
 2. Select an action type by choosing “Sms Actions”.
 

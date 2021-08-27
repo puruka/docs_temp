@@ -75,7 +75,7 @@ I. Start creating a Journey by pressing the "Create New Journey" button from the
 
 I. At the top left of the sketchbook, you’ll notice a tool icon. 
 
-![](.gitbook/assets/j5.jpg)
+![](.gitbook/assets/j5%20%281%29.jpg)
 
 2. Click this icon, it will allow you to choose the "Save" command.
 
@@ -97,7 +97,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.
 
 I. At the top left of the sketchbook, you’ll notice a tool icon. 
 
-![](.gitbook/assets/j5.jpg)
+![](.gitbook/assets/j5%20%281%29.jpg)
 
 2. Click this icon, it will allow you to choose the "Clone" command.
 
@@ -113,7 +113,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.
 
 I. At the top left of the sketchbook, you’ll notice a tool icon. 
 
-![](.gitbook/assets/j5.jpg)
+![](.gitbook/assets/j5%20%281%29.jpg)
 
 2. Click this icon, it will allow you to choose the "Re-arrange" command.
 
@@ -127,11 +127,11 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.
 
 I. At the top left of the sketchbook, you’ll notice a tool icon. 
 
-![](.gitbook/assets/j5.jpg)
+![](.gitbook/assets/j5%20%281%29.jpg)
 
 2. Click this icon, it will allow you to choose the "Clear" command.
 
-![](.gitbook/assets/image%20%2865%29.png)
+![](.gitbook/assets/image%20%2868%29.png)
 
 3. Confirm that you want to remove all the blocks from the Journey by pressing the "Clear" button.
 
@@ -145,7 +145,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.
 
 I. At the top left of the sketchbook, you’ll notice a tool icon. 
 
-![](.gitbook/assets/j5.jpg)
+![](.gitbook/assets/j5%20%281%29.jpg)
 
 2. Click this icon, it will allow you to choose the "Activate" command.
 
@@ -397,7 +397,7 @@ I. Start from the main "Journeys" home screen.
 
 I. Start from the main "Journeys" home screen.
 
-![](.gitbook/assets/image%20%2869%29.png)
+![](.gitbook/assets/image%20%2869%29%20%282%29.png)
 
 2. Press the "Clone" icon.
 
@@ -415,7 +415,7 @@ I. Start from the main "Journeys" home screen.
 
 I. Start from the main "Journeys" home screen.
 
-![](.gitbook/assets/image%20%2867%29.png)
+![](.gitbook/assets/image%20%2869%29%20%281%29.png)
 
 2. Choose the Journey.
 

@@ -10,15 +10,15 @@
 
 1. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](.gitbook/assets/image%20%2887%29.png)
+![](.gitbook/assets/image%20%2887%29%20%282%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/image%20%2892%29.png)
+![](.gitbook/assets/image%20%2888%29%20%283%29.png)
 
 3. Choose “Email Config” in the Up Panel and then press the "Create Email Config" button.
 
-![](.gitbook/assets/274726957.jpg)
+![](.gitbook/assets/285442195.jpg)
 
 4. Provide Email configuration name.
 
@@ -50,11 +50,11 @@
 
 l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](.gitbook/assets/image%20%2894%29.png)
+![](.gitbook/assets/image%20%2887%29%20%284%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/image%20%2876%29.png)
+![](.gitbook/assets/image%20%2888%29.png)
 
 3. Choose “SMS Config” in the Up Panel and then press the "Create SMS Config" button.
 
@@ -84,17 +84,17 @@ l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Ri
 
 8. Press the “Create” button for saving.
 
-![](.gitbook/assets/275546138.jpg)
+![](.gitbook/assets/275546138%20%281%29.jpg)
 
 ## Push Configuration <a id="Configuration-PushConfiguration"></a>
 
 l. Start Admin configuration by pressing the "OptiKPI Admin" button on the Up Right Side.
 
-![](.gitbook/assets/image%20%2871%29.png)
+![](.gitbook/assets/image%20%2887%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/image%20%2885%29.png)
+![](.gitbook/assets/image%20%2888%29%20%281%29.png)
 
 3. Choose “Push Config” in the Up Panel and then press the "Create Push Config" button.
 
@@ -124,11 +124,11 @@ l. Start Admin configuration by pressing the "OptiKPI Admin" button on the Up Ri
 
 l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](.gitbook/assets/image%20%2890%29.png)
+![](.gitbook/assets/image%20%2887%29%20%283%29.png)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/image%20%2888%29.png)
+![](.gitbook/assets/image%20%2888%29%20%282%29.png)
 
 3. Choose “Web Api” in the Up Panel and then press the "Create Custom Config" button.
 
@@ -172,11 +172,11 @@ l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Ri
 
 l. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](.gitbook/assets/274792480.jpg)
+![](.gitbook/assets/274792480%20%281%29.jpg)
 
 2. Choose your Time Zone.
 
-![](.gitbook/assets/275054637.jpg)
+![](.gitbook/assets/275054637%20%281%29.jpg)
 
 
 

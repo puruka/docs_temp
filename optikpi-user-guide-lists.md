@@ -47,39 +47,39 @@ Here you will know how to create an API List.
 
 I. Start creating a List by pressing the "New Customer List" button From the "Lists" home screen.
 
-![](.gitbook/assets/271515745.jpg)
+![](.gitbook/assets/285310979%20%281%29.jpg)
 
-2. Provide List name, List Description and choose List source \(API List\).
+2. Provide List name, List source \(API List\), List Mode, and List Description.
 
-![](.gitbook/assets/271515751.jpg)
+![](.gitbook/assets/image%20%2823%29.png)
 
 3. Choose a file that contains data.
 
-![](.gitbook/assets/271515757.jpg)
+![](.gitbook/assets/image%20%2846%29.png)
 
 4. Set Schema Definition.
 
-![](.gitbook/assets/271515763.jpg)
+![](.gitbook/assets/image%20%2843%29.png)
 
 5. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
 
-![](.gitbook/assets/271515769.jpg)
+![](.gitbook/assets/image%20%2851%29.png)
 
 6. Switching on the field **“Is metric field”** you can point this data like a metric.
 
-![](.gitbook/assets/271515775.jpg)
+![](.gitbook/assets/image%20%2811%29.png)
 
 7. Switching on the field “ **Add to Table”** you can add/remove data to/from your List.
 
-![](.gitbook/assets/271515781.jpg)
+![](.gitbook/assets/image%20%2821%29.png)
 
 8. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
 
-![](.gitbook/assets/271515787.jpg)
+![](.gitbook/assets/image%20%2855%29.png)
 
 9. Clicking on the field **X** you can delete data from the list.
 
-![](.gitbook/assets/271515793.jpg)
+![](.gitbook/assets/image%20%286%29.png)
 
 10. Map the following details from the List fields.
 
@@ -97,7 +97,7 @@ I. Start creating a List by pressing the "New Customer List" button From the "Li
 
 12. At any time you can peek into your list content from the List details page.
 
-![](.gitbook/assets/271515805.jpg)
+![](.gitbook/assets/285311089%20%281%29.jpg)
 
 13. Start pushing data into the list using standard Http Post call.
 
@@ -146,11 +146,11 @@ If you delete a list that is using in another Optikpi tool you can break Cards o
 
 I. You can delete any List by clicking on the “Trash” icon.
 
-![](.gitbook/assets/271253593.jpg)
+![](.gitbook/assets/288096266%20%281%29.jpg)
 
 2. System will ask you “Do you really want to delete the List?”
 
-![](.gitbook/assets/271253599.jpg)
+![](.gitbook/assets/288096279.jpg)
 
 {% hint style="danger" %}
 When you confirm and press the “Delete” button the List will be deleted permanently, without the possibility of recovery.
@@ -242,11 +242,11 @@ You can add Add CSV Data at your existing Acquisition List
 
 I. From the Acquisition upper menu part go to the List where you want to add data and click the "Add CSV Data" button.
 
-![](.gitbook/assets/271515815.jpg)
+![](.gitbook/assets/286163104%20%281%29.jpg)
 
 2. Select and Upload CSV file which has to have the same structure as an initial one.
 
-![](.gitbook/assets/271515821.jpg)
+![](.gitbook/assets/286163115.jpg)
 
 3. You will see new data lines in the List.
 
@@ -261,11 +261,11 @@ If you delete a list that is using in another Optikpi tool you can break Cards o
 
 I. You can delete any List by clicking on the “Trash” icon.
 
-![](.gitbook/assets/271253593.jpg)
+![](.gitbook/assets/288096266%20%281%29.jpg)
 
 2. System will ask you “Do you really want to delete the List?”
 
-![](.gitbook/assets/271253599.jpg)
+![](.gitbook/assets/288096279.jpg)
 
 {% hint style="danger" %}
 When you confirm and press the “Delete” button the List will be deleted permanently, without the possibility of recovery.
@@ -301,7 +301,7 @@ The long data type is a 64-bit two’s complement integer.
 
 Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
 
-![](.gitbook/assets/271515769.jpg)
+![](.gitbook/assets/271941645.jpg)
 
 You can add a column by providing data manually.
 

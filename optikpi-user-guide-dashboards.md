@@ -15,7 +15,7 @@ I. Start creating a Dashboard by pressing the "Create New Dashboard" button From
 
 2. Press the “Add” button.
 
-![](.gitbook/assets/296910851.jpg)
+![](.gitbook/assets/296681503.jpg)
 
 3. Pick the existing card or KPI by clicking on the link![](.gitbook/assets/304644097.jpg)
 
@@ -31,7 +31,7 @@ I. Start creating a Dashboard by pressing the "Create New Dashboard" button From
 
 6. To save your Dashboard press the "Save" button
 
-![](.gitbook/assets/304840711.jpg)
+![](.gitbook/assets/304840711%20%281%29.jpg)
 
 7. Provide name and description.
 
@@ -201,7 +201,7 @@ I. Start editing a Dashboard by pressing the "Edit" button From the "Dashboards"
 
 3. By clicking on 3 dots on the KPI plate, a popup with comes up.
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2825%29%20%282%29.png)
 
 4. You can Remove KPI from the current Dashboards. This KPI will still be available in the Default Dashboard \(where are all KPIs gathered\).
 
@@ -209,7 +209,7 @@ I. Start editing a Dashboard by pressing the "Edit" button From the "Dashboards"
 
 5. You can Delete KPI - in this case, KPI will be deleted irretrievably.![](blob:https://optikpi.atlassian.net/06fcfb55-3261-4316-9571-d1b58852cd67#media-blob-url=true&id=a0e725d2-c787-4ebd-8f72-aca5615b1345&collection=contentId-285474833&contextId=285474833&mimeType=image%2Fjpeg&name=D36.jpg&size=255444&width=1907&height=1031)
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 ## Edit KPI <a id="Dashboards-EditKPI"></a>
 
@@ -219,7 +219,7 @@ I. Start editing a KPI by pressing the "Edit" button From the "Dashboards" home 
 
 2. By clicking on 3 dots on the KPI plate, a popup with comes up.
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2825%29%20%281%29.png)
 
 3. Choose “Edit”.
 
@@ -237,7 +237,7 @@ I. Start editing a KPI by pressing the "Edit" button From the "Dashboards" home 
 
 By clicking on 3 dots on the KPI plate, a popup with comes up.
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
 
 You can Delete KPI - in this case, KPI will be deleted irretrievably.
 

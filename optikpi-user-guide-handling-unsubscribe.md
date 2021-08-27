@@ -14,15 +14,15 @@ For getting an unsubscribe group ID, you have to go to the SendGrid account and 
 
 I. Start Admin configuration by pressing the "OptiKPI Admin" button on the Up Right Side.
 
-![](.gitbook/assets/285573151.jpg)
+![](.gitbook/assets/274792480.jpg)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/285573157.jpg)
+![](.gitbook/assets/274726951%20%281%29.jpg)
 
 3. Choose “Email Config” in the Up Panel.
 
-![](.gitbook/assets/285442195.jpg)
+![](.gitbook/assets/285442195%20%281%29.jpg)
 
 4. Find the line with the needed Provider and click on the pencil icon.
 

@@ -8,7 +8,7 @@
 
 1. Start Admin configuration by pressing the "OptiKPI Admin" button on Up Right Side.
 
-![](.gitbook/assets/275021883.jpg)
+![](.gitbook/assets/274726939.jpg)
 
 ![](.gitbook/assets/image%20%2819%29.png)
 
@@ -16,7 +16,7 @@
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/275021895.jpg)
+![](.gitbook/assets/274726951%20%282%29.jpg)
 
 3. Choose the “Users” tub in the Up Panel and then press the "Create User" button.
 
@@ -40,18 +40,18 @@
 
 8. Choose what the user can access by clicking on the “Enable” green button.
 
-![](.gitbook/assets/274956323.jpg)
+![](.gitbook/assets/275087424.jpg)
 
 9. Marck what User can do.
 
 We strongly recommend that you don't give users the ability to delete Lists.  
 This level of access is better left only for the administrator.
 
-![](.gitbook/assets/275087412.jpg)
+![](.gitbook/assets/275382307.jpg)
 
 10. Press the “X” sign to see User permissions.
 
-![](.gitbook/assets/275447819.jpg)
+![](.gitbook/assets/275447819%20%281%29.jpg)
 
  11. Press the “Create” button for the ending.
 
@@ -67,15 +67,15 @@ This level of access is better left only for the administrator.
 
 1. Start Admin configuration by pressing the "OptiKPI Admin" button on Up Right Side.
 
-![](.gitbook/assets/275021883.jpg)
+![](.gitbook/assets/274726939.jpg)
 
-![](.gitbook/assets/image%20%2864%29.png)
+![](.gitbook/assets/image%20%2819%29%20%282%29.png)
 
 
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/275021895.jpg)
+![](.gitbook/assets/274726951%20%282%29.jpg)
 
 3. Choose the “Users” tub on the Up Panel.
 
@@ -101,13 +101,13 @@ This level of access is better left only for the administrator.
 
 1. Start Admin configuration by pressing the "OptiKPI Admin" button on Up Right Side.
 
-![](.gitbook/assets/275021883.jpg)
+![](.gitbook/assets/274726939.jpg)
 
-![](.gitbook/assets/275021889.jpg)
+![](.gitbook/assets/275021889%20%281%29.jpg)
 
 2. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/275021895.jpg)
+![](.gitbook/assets/274726951%20%282%29.jpg)
 
 3. Choose the “Users” tub in the Up Panel.
 
