@@ -49,7 +49,7 @@ I. Start creating a List by pressing the "New Customer List" button From the "Li
 
 ![](.gitbook/assets/285310979%20%281%29.jpg)
 
-2. Provide List name, List source \(API List\), List Mode, and List Description.
+2. Provide List name, List source \(API List\), List Mode \(Active\), and List Description.
 
 ![](.gitbook/assets/image%20%2823%29.png)
 
@@ -162,29 +162,37 @@ When you confirm and press the “Delete” button the List will be deleted perm
 
 Here you will know how to create a CSV List.
 
-I. Start creating a List by pressing the "New Customer List" button From the "Lists" home screen.
+{% embed url="https://youtu.be/Nsao5qHG0C0" %}
 
-![](.gitbook/assets/lu_1.jpg)
 
-2. Provide List name, List Description and choose List source \(CSV List\).
 
-![](.gitbook/assets/lu_2.jpg)
+I. Start creating a List by pressing the "**Create Customer List**" button from the "Lists" home screen.
 
-3. Choose List Mode.
+![](.gitbook/assets/image%20%2864%29.png)
 
-Draft mode is the default mode for opening a draft List for viewing and editing. All commands are available. But List in a draft mode is not available for Card/Segment creation. You can set a draft List to active mode using the Edit by choosing Active Mode in the List Mode field
+2. Provide **General Information**:
 
-![](.gitbook/assets/lu_3.jpg)
+step 1 - List name
 
-4. Provide List description.
+step 2 - List Source \(CSV File\)
 
-![](.gitbook/assets/lu_4.jpg)
+step 3 - List Mode \(should be Active\)
 
-5. Select the CSV file and download it.
+step 4 - List Description \(if necessary\)
 
-![](.gitbook/assets/lu_5.jpg)
+![](.gitbook/assets/image%20%2865%29.png)
 
-6. Set Schema Definition.
+**Please Note:**
+
+Draft mode is the default mode for opening a draft List for viewing and editing. All commands are available. **But List in a draft mode is not available for Card/Segment creation**. You can set a draft List to active mode using the Edit by choosing Active Mode in the List Mode field.
+
+5. In the "Schema Definition" tab select the CSV file and download it.
+
+![](.gitbook/assets/image%20%2859%29.png)
+
+
+
+5.1 If it's necessary you can set set Schema Definition.
 
 ![](.gitbook/assets/lu_6jpg.jpg)
 
@@ -211,6 +219,16 @@ Draft mode is the default mode for opening a draft List for viewing and editing.
  11.  You can add a new column by providing Field Name, Header, Data Type and set other scheme definitions. Press the "Add" button in final.
 
 ![](.gitbook/assets/lu_12.jpg)
+
+
+
+
+
+
+
+![](.gitbook/assets/image%20%2860%29.png)
+
+
 
 12. Press the "Next" button to go to the next step.
 
