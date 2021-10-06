@@ -53,6 +53,10 @@ Working with Journey, consider the following categories:
 
 ## Create NewJourney
 
+{% embed url="https://www.youtube.com/watch?v=ZawUUDpw0Po" %}
+
+
+
 I. Start creating a Journey by pressing the "Create New Journey" button from the "Journeys" home screen.
 
 ![](.gitbook/assets/j1.jpg)
