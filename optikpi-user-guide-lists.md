@@ -186,45 +186,45 @@ step 4 - List Description \(if necessary\)
 
 Draft mode is the default mode for opening a draft List for viewing and editing. All commands are available. **But List in a draft mode is not available for Card/Segment creation**. You can set a draft List to active mode using the Edit by choosing Active Mode in the List Mode field.
 
-5. In the "Schema Definition" tab select the CSV file and download it.
+3. In the "**Schema Definition**" tab select the CSV file and download it.
 
 ![](.gitbook/assets/image%20%2859%29.png)
 
 
 
-5.1 If it's necessary you can set set Schema Definition.
+3.1 If it's necessary you can set set Schema Definition.
 
 ![](.gitbook/assets/lu_6jpg.jpg)
 
-5.2. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
+3.2. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
 
 ![](.gitbook/assets/lu_8.jpg)
 
-5.3. Switching on the field **“Is metric field”** you can point this data like a metric.
+3.3. Switching on the field **“Is metric field”** you can point this data like a metric.
 
 ![](.gitbook/assets/lu_7.jpg.jpg)
 
-5.4. Switching on the field “**Add to Table”** you can add/remove data to/from your List.
+3.4. Switching on the field “**Add to Table”** you can add/remove data to/from your List.
 
 ![](.gitbook/assets/lu_9.jpg)
 
-5.5. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
+3.5. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
 
 ![](.gitbook/assets/lu_10.jpg)
 
-5.6. Clicking on the field **X** you can delete data from the list.
+3.6. Clicking on the field **X** you can delete data from the list.
 
 ![](.gitbook/assets/lu_11.jpg)
 
- 5.7.  You can add a new column by providing Field Name, Header, Data Type and set other scheme definitions. Press the "Add" button in final.
+ 3.7.  You can add a new column by providing Field Name, Header, Data Type and set other scheme definitions. Press the "Add" button in final.
 
 ![](.gitbook/assets/lu_12.jpg)
 
-6.  Press the "Next" button to go to the next step.
+4.  Press the "Next" button to go to the next step.
 
 ![](.gitbook/assets/image%20%2860%29.png)
 
-7. **Field Mapping**.  Map the following details from the List fields.
+5. **Field Mapping**.  Map the following details from the List fields.
 
 Choose relevant data for each field. If respective data is not available in your list select None.
 
@@ -238,7 +238,7 @@ Choose relevant data for each field. If respective data is not available in your
 
 ![](.gitbook/assets/image%20%2865%29.png)
 
-8. Press the button “**Create CSV List”** and your list will be created.
+6. Press the button “**Create CSV List”** and your list will be created.
 
 ![](.gitbook/assets/image%20%2867%29.png)
 
