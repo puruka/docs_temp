@@ -180,7 +180,7 @@ step 3 - List Mode \(should be Active\)
 
 step 4 - List Description \(if necessary\)
 
-![](.gitbook/assets/image%20%2865%29.png)
+![](.gitbook/assets/image%20%2871%29.png)
 
 **Please Note:**
 
@@ -196,45 +196,37 @@ Draft mode is the default mode for opening a draft List for viewing and editing.
 
 ![](.gitbook/assets/lu_6jpg.jpg)
 
-7. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
+5.2. Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
 
 ![](.gitbook/assets/lu_8.jpg)
 
-8. Switching on the field **“Is metric field”** you can point this data like a metric.
+5.3. Switching on the field **“Is metric field”** you can point this data like a metric.
 
 ![](.gitbook/assets/lu_7.jpg.jpg)
 
-9. Switching on the field “**Add to Table”** you can add/remove data to/from your List.
+5.4. Switching on the field “**Add to Table”** you can add/remove data to/from your List.
 
 ![](.gitbook/assets/lu_9.jpg)
 
-10. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
+5.5. Switching on the field **“Anonymize”** you can change the visibility of data in the list, as well in the cards and segments.
 
 ![](.gitbook/assets/lu_10.jpg)
 
-11. Clicking on the field **X** you can delete data from the list.
+5.6. Clicking on the field **X** you can delete data from the list.
 
 ![](.gitbook/assets/lu_11.jpg)
 
- 11.  You can add a new column by providing Field Name, Header, Data Type and set other scheme definitions. Press the "Add" button in final.
+ 5.7.  You can add a new column by providing Field Name, Header, Data Type and set other scheme definitions. Press the "Add" button in final.
 
 ![](.gitbook/assets/lu_12.jpg)
 
-
-
-
-
-
+6.  Press the "Next" button to go to the next step.
 
 ![](.gitbook/assets/image%20%2860%29.png)
 
+7. **Field Mapping**.  Map the following details from the List fields.
 
-
-12. Press the "Next" button to go to the next step.
-
-![](.gitbook/assets/lu_13.jpg)
-
-13. Field Mapping.  Map the following details from the List fields.
+Choose relevant data for each field. If respective data is not available in your list select None.
 
 | **Name** | **Description** |
 | :--- | :--- |
@@ -244,15 +236,13 @@ Draft mode is the default mode for opening a draft List for viewing and editing.
 | `Phone Contact` | Field which stores the customer phone number value, used in SMS Communication |
 | `Push Tokens` | Field which stores device-specific push tokens as a string array |
 
-![](.gitbook/assets/lu_14.jpg)
+![](.gitbook/assets/image%20%2865%29.png)
 
-14. Press the button “**Create CSV List”** and your list will be created.
+8. Press the button “**Create CSV List”** and your list will be created.
 
-![](.gitbook/assets/lu_15.jpg)
+![](.gitbook/assets/image%20%2867%29.png)
 
-![](.gitbook/assets/lu_16.jpg)
-
-
+![](.gitbook/assets/image%20%2866%29.png)
 
 ### Update <a id="Lists-Update.1"></a>
 
