@@ -162,10 +162,24 @@ When you confirm and press the “Delete” button the List will be deleted perm
 
 Here you will know how to create a CSV List.
 
+**This tutorial video will help you to Upload an Acquisition List**
+
+[https://youtu.be/Nsao5qHG0C0](https://youtu.be/Nsao5qHG0C0)
+
+{% embed url="https://youtu.be/Nsao5qHG0C0" %}
+1
+{% endembed %}
+
+{% embed url="https://youtu.be/Nsao5qHG0C0" %}
+2
+{% endembed %}
+
+
+
 
 
 {% embed url="https://youtu.be/Nsao5qHG0C0" %}
-This tutorial video will help you to Upload an Acquisition List
+3This tutorial video will help you to Upload an Acquisition List
 {% endembed %}
 
 
