@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OUG \(Optikpi User Guide\)](README.md)
+* [OUG (Optikpi User Guide)](README.md)
 * [Optikpi User Guide](optikpi-user-guide.md)
 * [Optikpi User Guide : Start working with Optikpi](optikpi-user-guide-start-working-with-optikpi.md)
 * [Optikpi User Guide : Configuration](optikpi-user-guide-configuration.md)
@@ -15,4 +15,4 @@
 * [Optikpi User Guide : User management](optikpi-user-guide-user-management.md)
 * [Optikpi User Guide : Journeys](optikpi-user-guide-journeys.md)
 * [Optikpi User Guide: WebApi](optikpi-user-guide-webapi.md)
-
+* [Optikpi User Guide: List of Providers](optikpi-user-guide-list-of-providers.md)
