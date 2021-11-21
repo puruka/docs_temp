@@ -53,9 +53,11 @@ Working with Journey, consider the following categories:
 
 ## Create New Journey
 
-{% embed url="https://youtu.be/ZawUUDpw0Po" %}
-This tutorial video will help you to Create a Journey
-{% endembed %}
+
+
+**This tutorial video will help you to Create a Journey **
+
+[https://www.youtube.com/watch?v=cSnNskL0cTk](https://www.youtube.com/watch?v=cSnNskL0cTk)
 
 I. Start creating a Journey by pressing the "Create New Journey" button from the "Journeys" home screen.
 

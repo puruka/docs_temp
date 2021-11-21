@@ -35,9 +35,9 @@ Optikpi enables you to set up a **triggered, recurring** or **single send** acti
 
 Action can be executed by the following channel: **Push notification, SMS Action, Email Action, Web API**. And set Launch Time for your Campaign.
 
-## Triggered Action <a id="Actions-TriggeredAction"></a>
+## Triggered Action <a href="actions-triggeredaction" id="actions-triggeredaction"></a>
 
-### Create Triggered Action <a id="Actions-CreateTriggeredAction"></a>
+### Create Triggered Action <a href="actions-createtriggeredaction" id="actions-createtriggeredaction"></a>
 
 There are 3 ways how you can create a new Action.
 
@@ -53,67 +53,67 @@ Triggered Action scheduled to run every 5 minutes since launched till date which
 
 I. Start creating a new Action by pressing the "Create New Action" button from the "Actions" - “Triggered” home screen.
 
-![](.gitbook/assets/image%20%2813%29%20%281%29.png)
+![](<.gitbook/assets/image (13) (1).png>)
 
-2. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
+2\. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](<.gitbook/assets/image (41).png>)
 
-3. Provide Action’s name. 
+3\. Provide Action’s name.&#x20;
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](<.gitbook/assets/image (18).png>)
 
-4. Provide Action Name; End Date. And press the Next button.
+4\. Provide Action Name; End Date. And press the Next button.
 
 Triggered Action scheduled to run every 5 minutes since launched till date which you pointed.
 
 ![](.gitbook/assets/271286464.jpg)
 
-5. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
+5\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
 
 ![](.gitbook/assets/272302097.jpg)
 
-6. Press the “Execute” button to see the data.
+6\. Press the “Execute” button to see the data.
 
 ![](.gitbook/assets/271515874.jpg)
 
-7. Press the “Next” button to go to the next step.
+7\. Press the “Next” button to go to the next step.
 
 ![](.gitbook/assets/271188086.jpg)
 
-8. Create a Template of your Action.
+8\. Create a Template of your Action.
 
 ![](.gitbook/assets/268566678.jpg)
 
 
 
-9. Press the “Next” button to continue.
+9\. Press the “Next” button to continue.
 
 ![](.gitbook/assets/271220826.jpg)
 
-10. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
+10.** Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/272039964%20%281%29.jpg)
+![](<.gitbook/assets/272039964 (1).jpg>)
 
-11. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top. 
+11\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.&#x20;
 
-![](.gitbook/assets/image%20%2818%29%20%281%29.png)
+![](<.gitbook/assets/image (18) (1).png>)
 
-12. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+12\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271482968%20%283%29.jpg)
+![](<.gitbook/assets/271482968 (3).jpg>)
 
-13. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+13\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
 ![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271482949%20%281%29.jpg)
+![](<.gitbook/assets/271482949 (1).jpg>)
 
-14. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+14\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/274563093%20%281%29.jpg)
+![](<.gitbook/assets/274563093 (1).jpg>)
 
 
 
@@ -142,39 +142,39 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Edit Triggered Action <a id="Actions-EditTriggeredAction"></a>
+### Edit Triggered Action <a href="actions-edittriggeredaction" id="actions-edittriggeredaction"></a>
 
 I. By clicking on 3 dots on the Action - Triggered panel, a popup with comes up.
 
 ![](.gitbook/assets/272236674.jpg)
 
-2. Click the “Edit” button for changing parameters or criteria of the Action.
+2\. Click the “Edit” button for changing parameters or criteria of the Action.
 
 ![](.gitbook/assets/271384745.jpg)
 
-3. You can change the Filter setting and rules.
+3\. You can change the Filter setting and rules.
 
 ![](.gitbook/assets/268370177.jpg)
 
-4. As well you can go through all steps and change it.
+4\. As well you can go through all steps and change it.
 
 ![](.gitbook/assets/271319172.jpg)
 
-5. At the end click to the "Save and Launch" button - in case if you want to save and re-launch your campaign or "Save" in case if you want just to save one.
+5\. At the end click to the "Save and Launch" button - in case if you want to save and re-launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271482968%20%283%29.jpg)
+![](<.gitbook/assets/271482968 (3).jpg>)
 
-6. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since re-launched till date which you pointed.
+6\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since re-launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
 ![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271482949%20%281%29.jpg)
+![](<.gitbook/assets/271482949 (1).jpg>)
 
-7. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+7\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/274563093%20%281%29.jpg)
+![](<.gitbook/assets/274563093 (1).jpg>)
 
 
 
@@ -203,7 +203,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Clone Triggered Action <a id="Actions-CloneTriggeredAction"></a>
+### Clone Triggered Action <a href="actions-clonetriggeredaction" id="actions-clonetriggeredaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -211,29 +211,29 @@ I. To clone Triggered Action click on 3 dots on the Action - Triggered panel and
 
 ![](.gitbook/assets/274956297.jpg)
 
-2. Press the “Next” button to continue.
+2\. Press the “Next” button to continue.
 
 ![](.gitbook/assets/275382273.jpg)
 
-3. You can change Template or go ahead.
+3\. You can change Template or go ahead.
 
 ![](.gitbook/assets/275054601.jpg)
 
-4. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+4\. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271482968%20%283%29.jpg)
+![](<.gitbook/assets/271482968 (3).jpg>)
 
-5. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+5\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
 ![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271482949%20%281%29.jpg)
+![](<.gitbook/assets/271482949 (1).jpg>)
 
-6. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+6\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/274563093%20%281%29.jpg)
+![](<.gitbook/assets/274563093 (1).jpg>)
 
 
 
@@ -262,7 +262,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Delete Triggered Action <a id="Actions-DeleteTriggeredAction"></a>
+### Delete Triggered Action <a href="actions-deletetriggeredaction" id="actions-deletetriggeredaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
 
@@ -299,9 +299,15 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Recurring Action <a id="Actions-RecurringAction"></a>
+## Recurring Action <a href="actions-recurringaction" id="actions-recurringaction"></a>
 
-### Create Recurring Action <a id="Actions-CreateRecurringAction"></a>
+### Create Recurring Action <a href="actions-createrecurringaction" id="actions-createrecurringaction"></a>
+
+**This tutorial video will help you to Create a Launch One Time Scheduled Email Action**
+
+[https://www.youtube.com/watch?v=ktb\_\_NV3Y1Y](https://www.youtube.com/watch?v=ktb\_\_NV3Y1Y)
+
+
 
 There are 3 ways how you can create a new Action.
 
@@ -317,17 +323,17 @@ Recurring Action can be scheduled up to 1 hour in advance.
 
 I. Start creating a new Action by pressing the "Create New Action" button from the "Actions"- ”Scheduled” home screen.
 
-![](.gitbook/assets/288325639%20%281%29.jpg)
+![](<.gitbook/assets/288325639 (1).jpg>)
 
-2. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
+2\. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
-![](.gitbook/assets/275054648%20%282%29.jpg)
+![](<.gitbook/assets/275054648 (2).jpg>)
 
-3. Provide Action’s name
+3\. Provide Action’s name
 
 ![](.gitbook/assets/271319152.jpg)
 
-4. Choose Scheduled Type.
+4\. Choose Scheduled Type.
 
 **Launch One Time** means that your Action can be Launch just 1 time.
 
@@ -339,7 +345,7 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 ![](.gitbook/assets/272236585.jpg)
 
-5. Or you can choose “**Recurring Scheduled**” as a Scheduled type.
+5\. Or you can choose “**Recurring Scheduled**” as a Scheduled type.
 
 ![](.gitbook/assets/272236591.jpg)
 
@@ -353,66 +359,67 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 ![](.gitbook/assets/272236603.jpg)
 
-Clicking on “Change Schedule” you will find yourself in the Scheduler where you can choose the time plan for your Action.  
+Clicking on “Change Schedule” you will find yourself in the Scheduler where you can choose the time plan for your Action.\
 For example, your Campaign can take place every Monday at 12:00 pm.
 
 ![](.gitbook/assets/272236609.jpg)
 
 ![](.gitbook/assets/272236615.jpg)
 
-6. Closing Scheduler, click the “Next” button to continue.
+6\. Closing Scheduler, click the “Next” button to continue.
 
 ![](.gitbook/assets/272236621.jpg)
 
-7. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
+7\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
 
 ![](.gitbook/assets/271253645.jpg)
 
-8. Press the “Execute” button to see the data.
+8\. Press the “Execute” button to see the data.
 
 ![](.gitbook/assets/272302087.jpg)
 
-9. Press the “Next” button to go to the next step.
+9\. Press the “Next” button to go to the next step.
 
 ![](.gitbook/assets/268370124.jpg)
 
-10. Create a Template of your Action.
+10\. Create a Template of your Action.
 
 ![](.gitbook/assets/271253653.jpg)
 
-11. Press the “Next” button to continue.
+11\. Press the “Next” button to continue.
 
 ![](.gitbook/assets/271417407.jpg)
 
-12. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
+12\. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/272039964%20%281%29.jpg)
+![](<.gitbook/assets/272039964 (1).jpg>)
 
-13. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
+13\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
 ![](.gitbook/assets/271319172.jpg)
 
-14. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+14\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271482968%20%283%29.jpg)
+![](<.gitbook/assets/271482968 (3).jpg>)
 
-15. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+15\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
 ![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271482949%20%281%29.jpg)
+![](<.gitbook/assets/271482949 (1).jpg>)
 
-16. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+16\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/274563093%20%281%29.jpg)
+![](<.gitbook/assets/274563093 (1).jpg>)
 
 
 
 [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
 
-* * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
+*
+  * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
   * [Edit Triggered Action](optikpi-user-guide-actions.md#Actions-EditTriggeredAction)
   * [Clone Triggered Action](optikpi-user-guide-actions.md#Actions-CloneTriggeredAction)
   * [Delete Triggered Action](optikpi-user-guide-actions.md#Actions-DeleteTriggeredAction)
@@ -436,39 +443,39 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Edit Recurring Action <a id="Actions-EditRecurringAction"></a>
+### Edit Recurring Action <a href="actions-editrecurringaction" id="actions-editrecurringaction"></a>
 
 I. By clicking on 3 dots on the Action - Scheduled panel, a popup with comes up.
 
 ![](.gitbook/assets/268272257.jpg)
 
-2. Click the “Edit” button for changing parameters or criteria of the Action.
+2\. Click the “Edit” button for changing parameters or criteria of the Action.
 
 ![](.gitbook/assets/268370167.jpg)
 
-3. You can change the Filter setting and rules.
+3\. You can change the Filter setting and rules.
 
 ![](.gitbook/assets/271941890.jpg)
 
-4. As well you can go through all steps and change it.
+4\. As well you can go through all steps and change it.
 
-![](.gitbook/assets/271220836%20%281%29.jpg)
+![](<.gitbook/assets/271220836 (1).jpg>)
 
-5. At the end click to the "Save and Launch" button - in case if you want to save and re-launch your campaign or "Save" in case if you want just to save one.
+5\. At the end click to the "Save and Launch" button - in case if you want to save and re-launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/271482968%20%283%29.jpg)
+![](<.gitbook/assets/271482968 (3).jpg>)
 
-6. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
+6\. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
 ![](.gitbook/assets/271482938.jpg)
 
-![](.gitbook/assets/271482949%20%281%29.jpg)
+![](<.gitbook/assets/271482949 (1).jpg>)
 
-7. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+7\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/274563093%20%281%29.jpg)
+![](<.gitbook/assets/274563093 (1).jpg>)
 
 
 
@@ -497,7 +504,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Clone Recurring Action <a id="Actions-CloneRecurringAction"></a>
+### Clone Recurring Action <a href="actions-clonerecurringaction" id="actions-clonerecurringaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -505,19 +512,19 @@ I. To clone Recurring Action click on 3 dots on the Action - Scheduled panel and
 
 ![](.gitbook/assets/271515921.jpg)
 
-2. Press the “Next” button to continue.
+2\. Press the “Next” button to continue.
 
-![](.gitbook/assets/271843381%20%281%29.jpg)
+![](<.gitbook/assets/271843381 (1).jpg>)
 
-3. You can change Template or go ahead.
+3\. You can change Template or go ahead.
 
 ![](.gitbook/assets/271253685.jpg)
 
-4. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+4\. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
 ![](.gitbook/assets/269222224.jpg)
 
-5. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
+5\. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
@@ -550,7 +557,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Delete Recurring Action <a id="Actions-DeleteRecurringAction"></a>
+### Delete Recurring Action <a href="actions-deleterecurringaction" id="actions-deleterecurringaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
 
@@ -587,9 +594,9 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Single Send Action <a id="Actions-SingleSendAction"></a>
+## Single Send Action <a href="actions-singlesendaction" id="actions-singlesendaction"></a>
 
-### Create Single Send Action <a id="Actions-CreateSingleSendAction"></a>
+### Create Single Send Action <a href="actions-createsinglesendaction" id="actions-createsinglesendaction"></a>
 
 There are 3 ways how you can create a new Action.
 
@@ -609,11 +616,11 @@ I. Start creating a new Action by pressing the "Create New Action" button from t
 
 ![](.gitbook/assets/271286477.jpg)
 
-2. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
+2\. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
-![](.gitbook/assets/275054648%20%282%29.jpg)
+![](<.gitbook/assets/275054648 (2).jpg>)
 
-3. Provide Action’s name and press the “Next” button to continue.
+3\. Provide Action’s name and press the “Next” button to continue.
 
 There is no time gap between the moment of creation the Action and the moment of starting one.
 
@@ -621,43 +628,43 @@ But your Action will proceed just 1 time.
 
 ![](.gitbook/assets/269222142.jpg)
 
-4. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
+4\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
 
 ![](.gitbook/assets/268370149.jpg)
 
-5. Press the “Execute” button to see the data.
+5\. Press the “Execute” button to see the data.
 
 ![](.gitbook/assets/268566692.jpg)
 
-6. Press the “Next” button to go to the next step.
+6\. Press the “Next” button to go to the next step.
 
 ![](.gitbook/assets/268272241.jpg)
 
-7. Create a Template of your Action.
+7\. Create a Template of your Action.
 
 ![](.gitbook/assets/image.png)
 
 
 
-8. Press the “Next” button to continue.
+8\. Press the “Next” button to continue.
 
 ![](.gitbook/assets/268566700.jpg)
 
-10. **Check Action Name, Selected Configs, Action Type, Rule, Template.**
+10\. **Check Action Name, Selected Configs, Action Type, Rule, Template.**
 
 ![](.gitbook/assets/268370159.jpg)
 
-11. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
+11\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
-![](.gitbook/assets/271220836%20%281%29.jpg)
+![](<.gitbook/assets/271220836 (1).jpg>)
 
-12. If everything is fine click to the "Launch" button.
+12\. If everything is fine click to the "Launch" button.
 
 ![](.gitbook/assets/269222148.jpg)
 
-13. Your campaign will start immediately.
+13\. Your campaign will start immediately.
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](<.gitbook/assets/image (50).png>)
 
 
 
@@ -686,25 +693,25 @@ But your Action will proceed just 1 time.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Edit Single Send Action <a id="Actions-EditSingleSendAction"></a>
+### Edit Single Send Action <a href="actions-editsinglesendaction" id="actions-editsinglesendaction"></a>
 
 I. By clicking on 3 dots on the Action - Single Send panel, a popup with comes up.
 
 ![](.gitbook/assets/275087388.jpg)
 
-2. Click the “Edit” button for changing parameters or criteria of the Action.
+2\. Click the “Edit” button for changing parameters or criteria of the Action.
 
 ![](.gitbook/assets/274661408.jpg)
 
-3. You can change the Filter setting and rules.
+3\. You can change the Filter setting and rules.
 
 ![](.gitbook/assets/274890781.jpg)
 
-4. As well you can go through all steps and change it.
+4\. As well you can go through all steps and change it.
 
 ![](.gitbook/assets/274727005.jpg)
 
-5. Press the “Launch” button for re-launching your Action.
+5\. Press the “Launch” button for re-launching your Action.
 
 ![](.gitbook/assets/275120143.jpg)
 
@@ -735,7 +742,7 @@ I. By clicking on 3 dots on the Action - Single Send panel, a popup with comes u
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Clone Single Send Action <a id="Actions-CloneSingleSendAction"></a>
+### Clone Single Send Action <a href="actions-clonesinglesendaction" id="actions-clonesinglesendaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -743,15 +750,15 @@ I. To clone Single Send Action click on 3 dots on the Action - Single Send panel
 
 ![](.gitbook/assets/274825241.jpg)
 
-2. Press the “Next” button to continue.
+2\. Press the “Next” button to continue.
 
 ![](.gitbook/assets/274759698.jpg)
 
-3. You can change Template or go ahead.
+3\. You can change Template or go ahead.
 
 ![](.gitbook/assets/274628617.jpg)
 
-4. Press the “Launch” button for launching your Action.
+4\. Press the “Launch” button for launching your Action.
 
 ![](.gitbook/assets/275316744.jpg)
 
@@ -782,7 +789,7 @@ I. To clone Single Send Action click on 3 dots on the Action - Single Send panel
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Delete Single Send Action <a id="Actions-DeleteSingleSendAction"></a>
+### Delete Single Send Action <a href="actions-deletesinglesendaction" id="actions-deletesinglesendaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
 
@@ -819,97 +826,97 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Email Actions <a id="Actions-EmailActions"></a>
+## Email Actions <a href="actions-emailactions" id="actions-emailactions"></a>
 
 Optikpi enables you to set up a **triggered, recurring** or **single send** action.
 
-Action can be executed by the following channel:  
-**Push notification** - is a message that pops up on the user's device.  
-**SMS Action** - is outgoing SMS text messages to different recipients.  
-**Email Action** - is an email notification, can be plain text or styled using HTML.  
+Action can be executed by the following channel:\
+**Push notification** - is a message that pops up on the user's device.\
+**SMS Action** - is outgoing SMS text messages to different recipients.\
+**Email Action** - is an email notification, can be plain text or styled using HTML.\
 **Web API** Action will be sent out based on the action definition.
 
 **Email Action** - is an email notification, can be plain text or styled using HTML.
 
 You can create an email notification using templates.
 
-### Email action creation <a id="Actions-Emailactioncreation"></a>
+### Email action creation <a href="actions-emailactioncreation" id="actions-emailactioncreation"></a>
 
 I. Start creating an Email Notification by pressing the "Create New Action" button From the "Actions" home screen.
 
-![](.gitbook/assets/288325639%20%281%29.jpg)
+![](<.gitbook/assets/288325639 (1).jpg>)
 
-2. Select an action type by choosing “Email Actions”.
+2\. Select an action type by choosing “Email Actions”.
 
-![](.gitbook/assets/277741606%20%281%29.jpg)
+![](<.gitbook/assets/277741606 (1).jpg>)
 
-3. Provide Action’s Name and take action setting according to action’s type \(**triggered,** **recurring,** or **single send** action\).
+3\. Provide Action’s Name and take action setting according to action’s type (**triggered,** **recurring,** or **single send** action).
 
-![](.gitbook/assets/285442086%20%281%29.jpg)
+![](<.gitbook/assets/285442086 (1).jpg>)
 
-4. After setting criteria click the “Execute” button.
+4\. After setting criteria click the “Execute” button.
 
-![](.gitbook/assets/277741618%20%281%29.jpg)
+![](<.gitbook/assets/277741618 (1).jpg>)
 
-5. Select an **Email Configs** - your Email sending provider.
+5\. Select an **Email Configs** - your Email sending provider.
 
-![](.gitbook/assets/285442098%20%281%29.jpg)
+![](<.gitbook/assets/285442098 (1).jpg>)
 
-6. Enter email **Subject.**
+6\. Enter email **Subject.**
 
-![](.gitbook/assets/277741630%20%281%29.jpg)
+![](<.gitbook/assets/277741630 (1).jpg>)
 
-7. Enter **Preheader**. \(Preview Text\).
+7\. Enter **Preheader**. (Preview Text).
 
 A preheader is the short summary text that follows the subject line when an email is viewed in the inbox. Many mobile, desktop, and web email clients provide them to tip you off on what the email contains before you open it.
 
 ![](.gitbook/assets/277741636.jpg)
 
-8. Create a new Template of your mail message by clicking on the “Create New Template” button.
+8\. Create a new Template of your mail message by clicking on the “Create New Template” button.
 
-![](.gitbook/assets/277741642%20%281%29.jpg)
+![](<.gitbook/assets/277741642 (1).jpg>)
 
-9. Start of creating of your Templates by clicking on blue space.
+9\. Start of creating of your Templates by clicking on blue space.
 
-![](.gitbook/assets/277741648%20%281%29.jpg)
+![](<.gitbook/assets/277741648 (1).jpg>)
 
-10. Drag content from the right-side panel.
+10\. Drag content from the right-side panel.
 
-![](.gitbook/assets/277741654%20%281%29.jpg)
+![](<.gitbook/assets/277741654 (1).jpg>)
 
-11. In the text content, you can insert Merge Tags in your message.
+11\. In the text content, you can insert Merge Tags in your message.
 
-![](.gitbook/assets/277741660%20%281%29.jpg)
+![](<.gitbook/assets/277741660 (1).jpg>)
 
-12. Use a small black panel for preview how your Template looks on different devices.
+12\. Use a small black panel for preview how your Template looks on different devices.
 
-![](.gitbook/assets/285442140%20%281%29.jpg)
+![](<.gitbook/assets/285442140 (1).jpg>)
 
-13. Press the “Next” button for the next step.
+13\. Press the “Next” button for the next step.
 
-![](.gitbook/assets/277741672%20%281%29.jpg)
+![](<.gitbook/assets/277741672 (1).jpg>)
 
-14. System will offer you to save the current Email Template. Enter the Name and press “Next”. Or “Skip Save” if you don’t need saving.
+14\. System will offer you to save the current Email Template. Enter the Name and press “Next”. Or “Skip Save” if you don’t need saving.
 
-![](.gitbook/assets/285442152%20%281%29.jpg)
+![](<.gitbook/assets/285442152 (1).jpg>)
 
-15. Check **Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
+15\. Check **Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/277741684%20%281%29.jpg)
+![](<.gitbook/assets/277741684 (1).jpg>)
 
-16. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
+16\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
 ![](.gitbook/assets/277741690.jpg)
 
-17. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+17\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
 ![](.gitbook/assets/285442170.jpg)
 
-18. "Save and Launch" means that your campaign will be started according to your settings. Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
+18\. "Save and Launch" means that your campaign will be started according to your settings. Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/277741702%20%281%29.jpg)
+![](<.gitbook/assets/277741702 (1).jpg>)
 
-19. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+19\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
 ![](.gitbook/assets/277741708.jpg)
 
@@ -940,7 +947,7 @@ A preheader is the short summary text that follows the subject line when an emai
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Action Report <a id="Actions-ActionReport"></a>
+### Action Report <a href="actions-actionreport" id="actions-actionreport"></a>
 
 Optikpi provides the possibility to explore the performance of your Actions.
 
@@ -948,11 +955,11 @@ I. Start from the Actions main screen.
 
 ![](.gitbook/assets/277741714.jpg)
 
-2. Click on the Action which you want to explore.
+2\. Click on the Action which you want to explore.
 
 ![](.gitbook/assets/285540388.jpg)
 
-3. You can see card and list name; delivery report; conversion chart.
+3\. You can see card and list name; delivery report; conversion chart.
 
 On the up right side there are tools for activating/deactivate, editing and cloning.
 
@@ -960,7 +967,7 @@ In the Action tracking part you find possibility for column setting and download
 
 ![](.gitbook/assets/285540396.jpg)
 
- 
+&#x20;
 
 * [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
@@ -987,99 +994,99 @@ In the Action tracking part you find possibility for column setting and download
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Push Notification <a id="Actions-PushNotification"></a>
+## Push Notification <a href="actions-pushnotification" id="actions-pushnotification"></a>
 
 Optikpi enables you to set up a **triggered, recurring** or **single send** action.
 
-Action can be executed by the following channel:  
-**Push notification** - is a message that pops up on the user's device.  
-**SMS Action** - is outgoing SMS text messages to different recipients.  
-**Email Action** - is an email notification, can be plain text or styled using HTML.  
+Action can be executed by the following channel:\
+**Push notification** - is a message that pops up on the user's device.\
+**SMS Action** - is outgoing SMS text messages to different recipients.\
+**Email Action** - is an email notification, can be plain text or styled using HTML.\
 **Web API** Action will be sent out based on the action definition.
 
 **Push notification** - is a message that pops up on the user's device.
 
-### Push action creation <a id="Actions-Pushactioncreation"></a>
+### Push action creation <a href="actions-pushactioncreation" id="actions-pushactioncreation"></a>
 
 I. Start creating a Push Notification by pressing "Create New Action" button From "Actions" home screen.
 
-![](.gitbook/assets/288325639%20%281%29.jpg)
+![](<.gitbook/assets/288325639 (1).jpg>)
 
-2. Select an action type by choosing “Push Notification”
+2\. Select an action type by choosing “Push Notification”
 
 ![](.gitbook/assets/277741720.jpg)
 
-3. Provide Action’s Name and take action setting according to action’s type \(**triggered,** **recurring,** or **single send** action\).
+3\. Provide Action’s Name and take action setting according to action’s type (**triggered,** **recurring,** or **single send** action).
 
 ![](.gitbook/assets/285540412.jpg)
 
-4. Set criteria and click the “Execute” button.
+4\. Set criteria and click the “Execute” button.
 
 ![](.gitbook/assets/286162996.jpg)
 
-5. Select a **Push Configs** - your push sending provider.
+5\. Select a **Push Configs** - your push sending provider.
 
-![](.gitbook/assets/image%20%2837%29%20%281%29.png)
+![](<.gitbook/assets/image (37) (1).png>)
 
-6. Enter **Title** - name of your Action.
+6\. Enter **Title** - name of your Action.
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](<.gitbook/assets/image (47).png>)
 
-7. Choose Merger Tag.
+7\. Choose Merger Tag.
 
 Optikpi offers merge tags for all kinds of dynamic information. Choose a merge tag for your push message to add personalized or dynamic content.
 
-![](.gitbook/assets/image%20%283%29%20%281%29.png)
+![](<.gitbook/assets/image (3) (1).png>)
 
-8. Fill **Push Message field**
+8\. Fill **Push Message field**
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](<.gitbook/assets/image (27).png>)
 
-9. Optional you can add ****Image**:**  Choose the Image to upload 
+9\. Optional you can add** **Image**: ** Choose the Image to upload&#x20;
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](<.gitbook/assets/image (17).png>)
 
 then press the "Upload" button.
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](<.gitbook/assets/image (20).png>)
 
-10. Fill pairs **Data Values** and press the "Add" button to continue.
+10\. Fill pairs **Data Values **and press the "Add" button to continue.
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](<.gitbook/assets/image (44).png>)
 
-11. In case if you need to delete pair press the x icon.
+11\. In case if you need to delete pair press the x icon.
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](<.gitbook/assets/image (40).png>)
 
-12.  Use the right panel to preview how your Push Notification looks on different devices.
+12\.  Use the right panel to preview how your Push Notification looks on different devices.
 
-![](.gitbook/assets/image%20%288%29.png)
+![](<.gitbook/assets/image (8).png>)
 
-13. Press the “Next” button 
+13\. Press the “Next” button&#x20;
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](<.gitbook/assets/image (36).png>)
 
 and Check **Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](<.gitbook/assets/image (35).png>)
 
-14. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
+14\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](<.gitbook/assets/image (34).png>)
 
-15. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+15\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](<.gitbook/assets/image (42).png>)
 
-16. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+16\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
-![](.gitbook/assets/image%20%2856%29.png)
+![](<.gitbook/assets/image (56).png>)
 
-17.  "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+17\.  "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](.gitbook/assets/image%20%287%29%20%281%29.png)
+![](<.gitbook/assets/image (7) (1).png>)
 
 * [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
@@ -1106,7 +1113,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Action Report <a id="Actions-ActionReport.1"></a>
+### Action Report <a href="actions-actionreport.1" id="actions-actionreport.1"></a>
 
 Optikpi provides the possibility to explore the performance of your Actions.
 
@@ -1114,11 +1121,11 @@ I. Start from the Actions main screen.
 
 ![](.gitbook/assets/277741714.jpg)
 
-2. Click on the Action which you want to explore.
+2\. Click on the Action which you want to explore.
 
 ![](.gitbook/assets/288587801.jpg)
 
-3. You can see card and list name; delivery report; conversion chart.
+3\. You can see card and list name; delivery report; conversion chart.
 
 On the up right side there are tools for activating/deactivate, editing and cloning.
 
@@ -1153,67 +1160,67 @@ In the Action tracking part you find possibility for column setting and download
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## SMS Action <a id="Actions-SMSAction"></a>
+## SMS Action <a href="actions-smsaction" id="actions-smsaction"></a>
 
 Optikpi enables you to set up a **triggered, recurring** or **single send** action.
 
-Action can be executed by the following channel:  
-**Push notification** - is a message that pops up on the user's device.  
-**SMS Action** - is outgoing SMS text messages to different recipients.  
-**Email Action** - is an email notification, can be plain text or styled using HTML.  
+Action can be executed by the following channel:\
+**Push notification** - is a message that pops up on the user's device.\
+**SMS Action** - is outgoing SMS text messages to different recipients.\
+**Email Action** - is an email notification, can be plain text or styled using HTML.\
 **Web API** Action will be sent out based on the action definition.
 
 **SMS Action** - is outgoing SMS text messages to different recipients.
 
-### SMS action creation <a id="Actions-SMSactioncreation"></a>
+### SMS action creation <a href="actions-smsactioncreation" id="actions-smsactioncreation"></a>
 
 I. Start creating an SMS Action by pressing the "Create New Action" button From the "Actions" home screen.
 
-![](.gitbook/assets/288325639%20%281%29.jpg)
+![](<.gitbook/assets/288325639 (1).jpg>)
 
-2. Select an action type by choosing “Sms Actions”.
+2\. Select an action type by choosing “Sms Actions”.
 
 ![](.gitbook/assets/277741732.jpg)
 
-3. Provide Action’s Name and take action setting according to action’s type \(**triggered,** **recurring,** or **single send** action\).
+3\. Provide Action’s Name and take action setting according to action’s type (**triggered,** **recurring,** or **single send** action).
 
 ![](.gitbook/assets/288260107.jpg)
 
-4. After setting criteria click the “Execute” button.
+4\. After setting criteria click the “Execute” button.
 
 ![](.gitbook/assets/285343862.jpg)
 
-5. Select an **SMS Configs** - your SMS provider.
+5\. Select an **SMS Configs** - your SMS provider.
 
 ![](.gitbook/assets/285540470.jpg)
 
-6. Type the text of your SMS-Campaign.
+6\. Type the text of your SMS-Campaign.
 
 ![](.gitbook/assets/288522243.jpg)
 
 
 
-7. Or choose Available SMS Templates.
+7\. Or choose Available SMS Templates.
 
 ![](.gitbook/assets/286163135.jpg)
 
-8. Press the “Next” button.
+8\. Press the “Next” button.
 
 ![](.gitbook/assets/288096294.jpg)
 
-9. Check **Action Name, Selected Sms Configs, Action Type, Rule, Template, Start and End Date.**
+9\. Check **Action Name, Selected Sms Configs, Action Type, Rule, Template, Start and End Date.**
 
 ![](.gitbook/assets/288456730.jpg)
 
-10. In the case if you need change something you can go back to the previous steps by clicking the corresponding steps on the top.
+10\. In the case if you need change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
 ![](.gitbook/assets/288489481.jpg)
 
-11. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+11\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
 ![](.gitbook/assets/288587795.jpg)
 
-12. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+12\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
@@ -1221,7 +1228,7 @@ Your Action has “Active” status and in several minutes you will see the data
 
 ![](.gitbook/assets/288653333.jpg)
 
-13. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+13\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
 ![](.gitbook/assets/288129054.jpg)
 
@@ -1252,7 +1259,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Action Report <a id="Actions-ActionReport.2"></a>
+### Action Report <a href="actions-actionreport.2" id="actions-actionreport.2"></a>
 
 Optikpi provides the possibility to explore the performance of your Actions.
 
@@ -1260,11 +1267,11 @@ I. Start from the Actions main screen.
 
 ![](.gitbook/assets/277741714.jpg)
 
-2. Click on the Action which you want to explore.
+2\. Click on the Action which you want to explore.
 
 ![](.gitbook/assets/288456740.jpg)
 
-3. You can see card and list name; delivery report; conversion chart.
+3\. You can see card and list name; delivery report; conversion chart.
 
 On the up right side there are tools for activating/deactivate, editing and cloning.
 
@@ -1274,7 +1281,8 @@ In the Action tracking part you find possibility for column setting and download
 
 [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
 
-* * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
+*
+  * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
   * [Edit Triggered Action](optikpi-user-guide-actions.md#Actions-EditTriggeredAction)
   * [Clone Triggered Action](optikpi-user-guide-actions.md#Actions-CloneTriggeredAction)
   * [Delete Triggered Action](optikpi-user-guide-actions.md#Actions-DeleteTriggeredAction)
@@ -1297,4 +1305,3 @@ In the Action tracking part you find possibility for column setting and download
 * [SMS Action](optikpi-user-guide-actions.md#Actions-SMSAction)
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
-
