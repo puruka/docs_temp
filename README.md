@@ -1,7 +1,5 @@
 ---
-description: >-
-  Welcome to the Optikpi User Guide! This is the place to find official
-  information on how to use Optikpi.
+description: '0011001100'
 ---
 
 # OUG (Optikpi User Guide)
