@@ -1,5 +1,5 @@
 ---
-description: '0011001100'
+description: How to
 ---
 
 # OUG (Optikpi User Guide)
