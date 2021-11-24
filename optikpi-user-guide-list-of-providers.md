@@ -6,29 +6,29 @@
 
 ## Emails
 
-SendGrid
+[SendGrid](https://sendgrid.com)
 
 ## SMS
 
-TextLocal
+[TextLocal](https://www.textlocal.com)
 
-TextLocal India
+[TextLocal India](https://www.textlocal.in)
 
-Twilio
+[Twilio](https://www.twilio.com)
 
-ValueLeaf
+[ValueLeaf](http://smpp.valueleaf.com)
 
-Msg91
+[Msg91](https://msg91.com)
 
-BulkSMS
+[BulkSMS](https://www.bulksms.com)
 
-Soprano
+[Soprano](https://www.sopranodesign.com)
 
-Times SMS
+[Times SMS](http://timessms.com)
 
-Iissms
+[Iissms](http://mysms.iissms.co.in)
 
-Nimbus SMS India
+[Nimbus SMS India](https://nimbusit.biz)
 
 ****
 
