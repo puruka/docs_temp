@@ -100,7 +100,11 @@ If Template Disabled you will not see it while Email action creation
 
 **This tutorial video will help you to Create a New Templates**
 
-[https://www.youtube.com/watch?v=E1CfB8uF3YI](https://www.youtube.com/watch?v=E1CfB8uF3YI)
+Tutorial 1. How to create a New Template directly in Optikpi  [https://www.youtube.com/watch?v=E1CfB8uF3YI](https://www.youtube.com/watch?v=E1CfB8uF3YI)
+
+Tutorial 2. How to cretae a New Template using HTML code
+
+[https://www.youtube.com/watch?v=mhgbBABITdU](https://www.youtube.com/watch?v=mhgbBABITdU)
 
 ****
 
