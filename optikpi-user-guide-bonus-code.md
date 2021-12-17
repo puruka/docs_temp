@@ -4,6 +4,12 @@ Bonus codes are alphanumeric strings that you can promo offer to encourage exclu
 
 OptiKPI allows you to create Bonus List and deliver Bonus Codes via one of the marketing channels in real-time as well as result tracking.
 
+**This tutorial video will help you to Use Bonus Code**
+
+****[**https://www.youtube.com/watch?v=nRuu7Zx\_tkE**](https://www.youtube.com/watch?v=nRuu7Zx\_tkE)****
+
+
+
 ## Bonus List&#x20;
 
 ### Create Bonus List&#x20;
