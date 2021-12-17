@@ -6,7 +6,13 @@ OptiKPI allows you to create Bonus List and deliver Bonus Codes via one of the m
 
 ## Bonus List&#x20;
 
-## Bonus code email campaign
+### Create Bonus List&#x20;
+
+## Bonus Code Email Campaign
+
+### Create Bonus Code Email Action
+
+### Check Results of Email Action
 
 
 
