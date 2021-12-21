@@ -15,11 +15,11 @@
   * [Data Types](optikpi-user-guide-lists.md#Lists-DataTypes)
   * [Add to Rule ](optikpi-user-guide-lists.md#Lists-AddtoRule)
 
-## Retention <a href="lists-retention" id="lists-retention"></a>
+## Retention <a href="#lists-retention" id="lists-retention"></a>
 
 Use Retention List for keeping or containing data of existing customers. You can push data into the list using a unique User ID.
 
-### Customer <a href="lists-customer" id="lists-customer"></a>
+### Customer <a href="#lists-customer" id="lists-customer"></a>
 
 Lists are storage units to track customer profiles and events.
 
@@ -35,13 +35,13 @@ Lists are storage units to track customer profiles and events.
 Event List is a place where you can track customers' events. Like “Login", "Transaction", "Clicks" etc. Event List is a list that tracks relevant user events. There can be more than one event list.
 {% endhint %}
 
-## Acquisition <a href="lists-acquisition" id="lists-acquisition"></a>
+## Acquisition <a href="#lists-acquisition" id="lists-acquisition"></a>
 
 Use Acquisition List for proceeding data for customers which are not yet in the System.
 
-## API <a href="lists-api" id="lists-api"></a>
+## API <a href="#lists-api" id="lists-api"></a>
 
-### Create <a href="lists-create" id="lists-create"></a>
+### Create <a href="#lists-create" id="lists-create"></a>
 
 Here you will know how to create an API List.
 
@@ -91,7 +91,7 @@ I. Start creating a List by pressing the "New Customer List" button From the "Li
 | `Phone Contact`    | Field which stores the customer phone number value, used in SMS Communication                   |
 | `Push Tokens`      | Field which stores device-specific push tokens as a string array                                |
 
-11\. Press the button “**Create API List”** and your list will be created.
+11\. Click the button “**Create API List”** and your list will be created.
 
 ![](.gitbook/assets/271515799.png)
 
@@ -115,7 +115,7 @@ For Example.
 
 
 
-### Update <a href="lists-update" id="lists-update"></a>
+### Update <a href="#lists-update" id="lists-update"></a>
 
 I. You can change any List by clicking on the “pen” icon.
 
@@ -135,7 +135,7 @@ I. You can change any List by clicking on the “pen” icon.
 
 
 
-### Delete <a href="lists-delete" id="lists-delete"></a>
+### Delete <a href="#lists-delete" id="lists-delete"></a>
 
 **Be careful!**
 
@@ -156,19 +156,15 @@ I. You can delete any List by clicking on the “Trash” icon.
 When you confirm and press the “Delete” button the List will be deleted permanently, without the possibility of recovery.
 {% endhint %}
 
-## CSV <a href="lists-csv" id="lists-csv"></a>
+## CSV <a href="#lists-csv" id="lists-csv"></a>
 
-### Create <a href="lists-create.1" id="lists-create.1"></a>
+### Create <a href="#lists-create.1" id="lists-create.1"></a>
 
 Here you will know how to create a CSV List.
 
+**This tutorial video will help you to Upload an Acquisition List**
 
-
-{% embed url="https://youtu.be/Nsao5qHG0C0" %}
-This tutorial video will help you to Upload an Acquisition List
-{% endembed %}
-
-
+[https://youtu.be/Nsao5qHG0C0](https://youtu.be/Nsao5qHG0C0)
 
 I. Start creating a List by pressing the "**Create Customer List**" button from the "Lists" home screen.
 
@@ -248,7 +244,7 @@ Choose relevant data for each field. If respective data is not available in your
 
 ![](<.gitbook/assets/image (66).png>)
 
-### Update <a href="lists-update.1" id="lists-update.1"></a>
+### Update <a href="#lists-update.1" id="lists-update.1"></a>
 
 You can add Add CSV Data at your existing Acquisition List
 
@@ -262,7 +258,7 @@ I. From the Acquisition upper menu part go to the List where you want to add dat
 
 3\. You will see new data lines in the List.
 
-### Delete <a href="lists-delete.1" id="lists-delete.1"></a>
+### Delete <a href="#lists-delete.1" id="lists-delete.1"></a>
 
 Be careful!
 
@@ -283,7 +279,7 @@ I. You can delete any List by clicking on the “Trash” icon.
 When you confirm and press the “Delete” button the List will be deleted permanently, without the possibility of recovery.
 {% endhint %}
 
-### Data Types <a href="lists-datatypes" id="lists-datatypes"></a>
+### Data Types <a href="#lists-datatypes" id="lists-datatypes"></a>
 
 **String Data Type**
 
@@ -309,7 +305,7 @@ An integer data type represents some range of mathematical integers. Integral da
 
 The long data type is a 64-bit two’s complement integer.
 
-### Add to Rule  <a href="lists-addtorule" id="lists-addtorule"></a>
+### Add to Rule  <a href="#lists-addtorule" id="lists-addtorule"></a>
 
 Clicking on the field **Add to rule engine** you can switch on/off of adding this data to your List.
 

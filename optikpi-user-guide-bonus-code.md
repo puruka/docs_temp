@@ -8,7 +8,35 @@ OptiKPI allows you to create Bonus List and deliver Bonus Codes via one of the m
 
 ****[**https://www.youtube.com/watch?v=nRuu7Zx\_tkE**](https://www.youtube.com/watch?v=nRuu7Zx\_tkE)****
 
+I. Start using a Bonus Code by creating a Bonus Code List. Choose the "Lists" tab on the upper toolbar and then the "Bonus Codes" tab.
 
+
+
+2\. Click the "Create Bonus List" button.
+
+
+
+3\. Provide List Name.
+
+
+
+4\. Click the "Create" button.
+
+
+
+5\. Click on "Add Bonus Codes".
+
+
+
+6\. Select the CSV file which you prepared in advance and which is containing codes.
+
+
+
+7\. Select the column to be imported as Bonus Code.
+
+
+
+8\. And click the "Upload" button.&#x20;
 
 ## Bonus List&#x20;
 
