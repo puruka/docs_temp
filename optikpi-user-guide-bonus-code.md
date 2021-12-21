@@ -8,6 +8,12 @@ OptiKPI allows you to create Bonus List and deliver Bonus Codes via one of the m
 
 ****[**https://www.youtube.com/watch?v=nRuu7Zx\_tkE**](https://www.youtube.com/watch?v=nRuu7Zx\_tkE)****
 
+&#x20;
+
+## Bonus List&#x20;
+
+### Create Bonus List&#x20;
+
 I. Start using a Bonus Code by creating a Bonus Code List. Choose the "Lists" tab on the upper toolbar and then the "Bonus Codes" tab.
 
 
@@ -36,11 +42,7 @@ I. Start using a Bonus Code by creating a Bonus Code List. Choose the "Lists" ta
 
 
 
-8\. And click the "Upload" button.&#x20;
-
-## Bonus List&#x20;
-
-### Create Bonus List&#x20;
+8\. And click the "Upload" button.
 
 ## Bonus Code Email Campaign
 
