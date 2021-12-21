@@ -16,33 +16,39 @@ OptiKPI allows you to create Bonus List and deliver Bonus Codes via one of the m
 
 I. Start using a Bonus Code by creating a Bonus Code List. Choose the "Lists" tab on the upper toolbar and then the "Bonus Codes" tab.
 
-
+![](<.gitbook/assets/image (94).png>)
 
 2\. Click the "Create Bonus List" button.
+
+![](<.gitbook/assets/image (104).png>)
 
 
 
 3\. Provide List Name.
 
-
+![](<.gitbook/assets/image (76).png>)
 
 4\. Click the "Create" button.
 
-
+![](<.gitbook/assets/image (108).png>)
 
 5\. Click on "Add Bonus Codes".
 
-
+![](<.gitbook/assets/image (106).png>)
 
 6\. Select the CSV file which you prepared in advance and which is containing codes.
 
-
+![](<.gitbook/assets/image (92).png>)
 
 7\. Select the column to be imported as Bonus Code.
 
-
+![](<.gitbook/assets/image (107).png>)
 
 8\. And click the "Upload" button.
+
+![](<.gitbook/assets/image (85).png>)
+
+![](<.gitbook/assets/image (105).png>)
 
 ## Bonus Code Email Campaign
 

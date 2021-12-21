@@ -35,9 +35,9 @@ Optikpi enables you to set up a **triggered, recurring** or **single send** acti
 
 Action can be executed by the following channel: **Push notification, SMS Action, Email Action, Web API**. And set Launch Time for your Campaign.
 
-## Triggered Action <a href="actions-triggeredaction" id="actions-triggeredaction"></a>
+## Triggered Action <a href="#actions-triggeredaction" id="actions-triggeredaction"></a>
 
-### Create Triggered Action <a href="actions-createtriggeredaction" id="actions-createtriggeredaction"></a>
+### Create Triggered Action <a href="#actions-createtriggeredaction" id="actions-createtriggeredaction"></a>
 
 There are 3 ways how you can create a new Action.
 
@@ -91,7 +91,7 @@ Triggered Action scheduled to run every 5 minutes since launched till date which
 
 ![](.gitbook/assets/271220826.jpg)
 
-10.** Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
+10\. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
 ![](<.gitbook/assets/272039964 (1).jpg>)
 
@@ -142,7 +142,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Edit Triggered Action <a href="actions-edittriggeredaction" id="actions-edittriggeredaction"></a>
+### Edit Triggered Action <a href="#actions-edittriggeredaction" id="actions-edittriggeredaction"></a>
 
 I. By clicking on 3 dots on the Action - Triggered panel, a popup with comes up.
 
@@ -203,7 +203,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Clone Triggered Action <a href="actions-clonetriggeredaction" id="actions-clonetriggeredaction"></a>
+### Clone Triggered Action <a href="#actions-clonetriggeredaction" id="actions-clonetriggeredaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -262,7 +262,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Delete Triggered Action <a href="actions-deletetriggeredaction" id="actions-deletetriggeredaction"></a>
+### Delete Triggered Action <a href="#actions-deletetriggeredaction" id="actions-deletetriggeredaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
 
@@ -299,9 +299,9 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Recurring Action <a href="actions-recurringaction" id="actions-recurringaction"></a>
+## Recurring Action <a href="#actions-recurringaction" id="actions-recurringaction"></a>
 
-### Create Recurring Action <a href="actions-createrecurringaction" id="actions-createrecurringaction"></a>
+### Create Recurring Action <a href="#actions-createrecurringaction" id="actions-createrecurringaction"></a>
 
 **This tutorial video will help you to Create a Launch One Time Scheduled Email Action**
 
@@ -443,7 +443,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Edit Recurring Action <a href="actions-editrecurringaction" id="actions-editrecurringaction"></a>
+### Edit Recurring Action <a href="#actions-editrecurringaction" id="actions-editrecurringaction"></a>
 
 I. By clicking on 3 dots on the Action - Scheduled panel, a popup with comes up.
 
@@ -504,7 +504,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Clone Recurring Action <a href="actions-clonerecurringaction" id="actions-clonerecurringaction"></a>
+### Clone Recurring Action <a href="#actions-clonerecurringaction" id="actions-clonerecurringaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -557,7 +557,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Delete Recurring Action <a href="actions-deleterecurringaction" id="actions-deleterecurringaction"></a>
+### Delete Recurring Action <a href="#actions-deleterecurringaction" id="actions-deleterecurringaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
 
@@ -594,9 +594,9 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Single Send Action <a href="actions-singlesendaction" id="actions-singlesendaction"></a>
+## Single Send Action <a href="#actions-singlesendaction" id="actions-singlesendaction"></a>
 
-### Create Single Send Action <a href="actions-createsinglesendaction" id="actions-createsinglesendaction"></a>
+### Create Single Send Action <a href="#actions-createsinglesendaction" id="actions-createsinglesendaction"></a>
 
 There are 3 ways how you can create a new Action.
 
@@ -693,7 +693,7 @@ But your Action will proceed just 1 time.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Edit Single Send Action <a href="actions-editsinglesendaction" id="actions-editsinglesendaction"></a>
+### Edit Single Send Action <a href="#actions-editsinglesendaction" id="actions-editsinglesendaction"></a>
 
 I. By clicking on 3 dots on the Action - Single Send panel, a popup with comes up.
 
@@ -742,7 +742,7 @@ I. By clicking on 3 dots on the Action - Single Send panel, a popup with comes u
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Clone Single Send Action <a href="actions-clonesinglesendaction" id="actions-clonesinglesendaction"></a>
+### Clone Single Send Action <a href="#actions-clonesinglesendaction" id="actions-clonesinglesendaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -789,7 +789,7 @@ I. To clone Single Send Action click on 3 dots on the Action - Single Send panel
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Delete Single Send Action <a href="actions-deletesinglesendaction" id="actions-deletesinglesendaction"></a>
+### Delete Single Send Action <a href="#actions-deletesinglesendaction" id="actions-deletesinglesendaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
 
@@ -826,7 +826,7 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Email Actions <a href="actions-emailactions" id="actions-emailactions"></a>
+## Email Actions <a href="#actions-emailactions" id="actions-emailactions"></a>
 
 Optikpi enables you to set up a **triggered, recurring** or **single send** action.
 
@@ -840,7 +840,7 @@ Action can be executed by the following channel:\
 
 You can create an email notification using templates.
 
-### Email action creation <a href="actions-emailactioncreation" id="actions-emailactioncreation"></a>
+### Email action creation <a href="#actions-emailactioncreation" id="actions-emailactioncreation"></a>
 
 I. Start creating an Email Notification by pressing the "Create New Action" button From the "Actions" home screen.
 
@@ -947,7 +947,7 @@ A preheader is the short summary text that follows the subject line when an emai
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Action Report <a href="actions-actionreport" id="actions-actionreport"></a>
+### Action Report <a href="#actions-actionreport" id="actions-actionreport"></a>
 
 Optikpi provides the possibility to explore the performance of your Actions.
 
@@ -994,7 +994,7 @@ In the Action tracking part you find possibility for column setting and download
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## Push Notification <a href="actions-pushnotification" id="actions-pushnotification"></a>
+## Push Notification <a href="#actions-pushnotification" id="actions-pushnotification"></a>
 
 Optikpi enables you to set up a **triggered, recurring** or **single send** action.
 
@@ -1006,7 +1006,7 @@ Action can be executed by the following channel:\
 
 **Push notification** - is a message that pops up on the user's device.
 
-### Push action creation <a href="actions-pushactioncreation" id="actions-pushactioncreation"></a>
+### Push action creation <a href="#actions-pushactioncreation" id="actions-pushactioncreation"></a>
 
 I. Start creating a Push Notification by pressing "Create New Action" button From "Actions" home screen.
 
@@ -1042,7 +1042,7 @@ Optikpi offers merge tags for all kinds of dynamic information. Choose a merge t
 
 ![](<.gitbook/assets/image (27).png>)
 
-9\. Optional you can add** **Image**: ** Choose the Image to upload&#x20;
+9\. Optional you can add **** Image**:** Choose the Image to upload&#x20;
 
 ![](<.gitbook/assets/image (17).png>)
 
@@ -1050,7 +1050,7 @@ then press the "Upload" button.
 
 ![](<.gitbook/assets/image (20).png>)
 
-10\. Fill pairs **Data Values **and press the "Add" button to continue.
+10\. Fill pairs **Data Values** and press the "Add" button to continue.
 
 ![](<.gitbook/assets/image (44).png>)
 
@@ -1113,7 +1113,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Action Report <a href="actions-actionreport.1" id="actions-actionreport.1"></a>
+### Action Report <a href="#actions-actionreport.1" id="actions-actionreport.1"></a>
 
 Optikpi provides the possibility to explore the performance of your Actions.
 
@@ -1160,7 +1160,7 @@ In the Action tracking part you find possibility for column setting and download
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-## SMS Action <a href="actions-smsaction" id="actions-smsaction"></a>
+## SMS Action <a href="#actions-smsaction" id="actions-smsaction"></a>
 
 Optikpi enables you to set up a **triggered, recurring** or **single send** action.
 
@@ -1172,7 +1172,7 @@ Action can be executed by the following channel:\
 
 **SMS Action** - is outgoing SMS text messages to different recipients.
 
-### SMS action creation <a href="actions-smsactioncreation" id="actions-smsactioncreation"></a>
+### SMS action creation <a href="#actions-smsactioncreation" id="actions-smsactioncreation"></a>
 
 I. Start creating an SMS Action by pressing the "Create New Action" button From the "Actions" home screen.
 
@@ -1259,7 +1259,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
-### Action Report <a href="actions-actionreport.2" id="actions-actionreport.2"></a>
+### Action Report <a href="#actions-actionreport.2" id="actions-actionreport.2"></a>
 
 Optikpi provides the possibility to explore the performance of your Actions.
 

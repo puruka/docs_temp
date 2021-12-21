@@ -55,7 +55,7 @@ Working with Journey, consider the following categories:
 
 
 
-**This tutorial video will help you to Create a Journey **
+**This tutorial video will help you to Create a Journey**&#x20;
 
 [https://www.youtube.com/watch?v=cSnNskL0cTk](https://www.youtube.com/watch?v=cSnNskL0cTk)
 

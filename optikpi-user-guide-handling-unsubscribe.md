@@ -8,7 +8,7 @@ There are two ways to get Unsubscribe done from Optikpi itself:
 1. Configure the unsubscribe group ID from Settings in Optikpi for SendGrid.
 2. Add an unsubscribe link in the Templates.
 
-## Configure unsubscribe group <a id="HandlingUnsubscribe-Configureunsubscribegroup"></a>
+## Configure unsubscribe group <a href="#handlingunsubscribe-configureunsubscribegroup" id="handlingunsubscribe-configureunsubscribegroup"></a>
 
 For getting an unsubscribe group ID, you have to go to the SendGrid account and create an unsubscribe group once and can configure it in Optikpi.
 
@@ -16,23 +16,23 @@ I. Start Admin configuration by pressing the "OptiKPI Admin" button on the Up Ri
 
 ![](.gitbook/assets/274792480.jpg)
 
-2. Go ahead by pressing the "Admin Settings" icon.
+2\. Go ahead by pressing the "Admin Settings" icon.
 
-![](.gitbook/assets/274726951%20%281%29.jpg)
+![](<.gitbook/assets/274726951 (1).jpg>)
 
-3. Choose “Email Config” in the Up Panel.
+3\. Choose “Email Config” in the Up Panel.
 
-![](.gitbook/assets/285442195%20%281%29.jpg)
+![](<.gitbook/assets/285442195 (1).jpg>)
 
-4. Find the line with the needed Provider and click on the pencil icon.
+4\. Find the line with the needed Provider and click on the pencil icon.
 
 ![](.gitbook/assets/285671438.jpg)
 
-5. In the “Unsubscribe group id” field fill the SendGrid ID Group.
+5\. In the “Unsubscribe group id” field fill the SendGrid ID Group.
 
 ![](.gitbook/assets/285278230.jpg)
 
-6. Press the “Update” button.
+6\. Press the “Update” button.
 
 ![](.gitbook/assets/285409295.jpg)
 
@@ -41,19 +41,18 @@ SendGrid automatically adds an unsubscribe link at the bottom of your email.
 * [Configure unsubscribe group](optikpi-user-guide-handling-unsubscribe.md#HandlingUnsubscribe-Configureunsubscribegroup)
 * [Unsubscribe link](optikpi-user-guide-handling-unsubscribe.md#HandlingUnsubscribe-Unsubscribelink)
 
-## Unsubscribe link <a id="HandlingUnsubscribe-Unsubscribelink"></a>
+## Unsubscribe link <a href="#handlingunsubscribe-unsubscribelink" id="handlingunsubscribe-unsubscribelink"></a>
 
 I. From the templates, you can add an unsubscribe link by adding the tag to the anchor tag:
 
 **Button - URL -**
 
-```text
+```
 <%asm_group_unsubscribe_raw_url%>
 ```
 
 **Link**
 
-```text
+```
 <div style="text-align:center"><a href="<%asm_group_unsubscribe_raw_url%>" >Unsubscribe</a></div
 ```
-
