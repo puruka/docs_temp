@@ -17,3 +17,4 @@
 * [Optikpi User Guide : WebApi](optikpi-user-guide-webapi.md)
 * [Optikpi User Guide : List of Providers](optikpi-user-guide-list-of-providers.md)
 * [Optikpi User Guide : Bonus Code](optikpi-user-guide-bonus-code.md)
+* [Optikpi User Guide : Video tutorials](optikpi-user-guide-video-tutorials.md)
