@@ -8,6 +8,18 @@
 
 [https://www.youtube.com/watch?v=Nsao5qHG0C0\&t=7s](https://www.youtube.com/watch?v=Nsao5qHG0C0\&t=7s)
 
+#### How to create Segment
+
+[https://www.youtube.com/watch?v=xDyVYcmME2I](https://www.youtube.com/watch?v=xDyVYcmME2I)
+
+**Rule Engine - How to use Filters in Segments**
+
+****[https://www.youtube.com/watch?v=Vi6v4ZBwZI8](https://www.youtube.com/watch?v=Vi6v4ZBwZI8)
+
+#### Crads - How to Apply Filters and Create Cards
+
+[https://www.youtube.com/watch?v=Dr\_jxt2c6q4](https://www.youtube.com/watch?v=Dr\_jxt2c6q4)
+
 #### Scheduled Recurring Email Action
 
 [https://www.youtube.com/watch?v=vRqmGFL36cw](https://www.youtube.com/watch?v=vRqmGFL36cw)
@@ -40,7 +52,5 @@
 
 [https://www.youtube.com/watch?v=ktb\_\_NV3Y1Y](https://www.youtube.com/watch?v=ktb\_\_NV3Y1Y)
 
-**Rule Engine - How to use Filters in Segments**
-
-****[https://www.youtube.com/watch?v=Vi6v4ZBwZI8](https://www.youtube.com/watch?v=Vi6v4ZBwZI8)
+****
 
