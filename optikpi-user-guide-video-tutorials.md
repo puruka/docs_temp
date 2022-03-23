@@ -40,3 +40,7 @@
 
 [https://www.youtube.com/watch?v=ktb\_\_NV3Y1Y](https://www.youtube.com/watch?v=ktb\_\_NV3Y1Y)
 
+**Rule Engine - How to use Filters in Segments**
+
+****[https://www.youtube.com/watch?v=Vi6v4ZBwZI8](https://www.youtube.com/watch?v=Vi6v4ZBwZI8)
+
