@@ -20,7 +20,7 @@ I. Start using a Bonus Code by creating a Bonus Code List. Choose the "Lists" ta
 
 2\. Click the "Create Bonus List" button.
 
-![](<.gitbook/assets/image (104).png>)
+![](<.gitbook/assets/image (104) (1).png>)
 
 
 
@@ -30,25 +30,25 @@ I. Start using a Bonus Code by creating a Bonus Code List. Choose the "Lists" ta
 
 4\. Click the "Create" button.
 
-![](<.gitbook/assets/image (108).png>)
+![](<.gitbook/assets/image (108) (1).png>)
 
 5\. Click on "Add Bonus Codes".
 
-![](<.gitbook/assets/image (106).png>)
+![](<.gitbook/assets/image (106) (1).png>)
 
 6\. Select the CSV file which you prepared in advance and which is containing codes.
 
-![](<.gitbook/assets/image (92).png>)
+![](<.gitbook/assets/image (92) (1).png>)
 
 7\. Select the column to be imported as Bonus Code.
 
-![](<.gitbook/assets/image (107).png>)
+![](<.gitbook/assets/image (107) (1).png>)
 
 8\. And click the "Upload" button.
 
 ![](<.gitbook/assets/image (85).png>)
 
-![](<.gitbook/assets/image (105).png>)
+![](<.gitbook/assets/image (105) (1).png>)
 
 ## Bonus Code Email Campaign
 

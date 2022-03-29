@@ -1,7 +1,3 @@
----
-description: How to
----
-
 # OUG (Optikpi User Guide)
 
 Welcome to the Optikpi User Guide! This is the place to find official information on how to use Optikpi.
