@@ -1,10 +1,10 @@
 # Optikpi User Guide : Configuration
 
-* [Email Configurations](optikpi-user-guide-configuration.md#Configuration-EmailConfigurations)
-* [SMS Configuration](optikpi-user-guide-configuration.md#Configuration-SMSConfiguration)
-* [Push Configuration](optikpi-user-guide-configuration.md#Configuration-PushConfiguration)
-* [Web API](optikpi-user-guide-configuration.md#Configuration-WebAPI)
-* [Time Zone](optikpi-user-guide-configuration.md#Configuration-TimeZone)
+* [Email Configurations](optikpi-user-guide-configuration.md#configuration-emailconfigurations)
+* [SMS Configuration](optikpi-user-guide-configuration.md#configuration-smsconfiguration)
+* [Push Configuration](optikpi-user-guide-configuration.md#configuration-pushconfiguration)
+* [Web API](optikpi-user-guide-configuration.md#configuration-webapi)
+* [Time Zone](optikpi-user-guide-configuration.md#configuration-timezone)
 
 ## Email Configurations <a href="#configuration-emailconfigurations" id="configuration-emailconfigurations"></a>
 
