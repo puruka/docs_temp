@@ -1,11 +1,15 @@
 # Optikpi User Guide : Cards
 
-* [Create](optikpi-user-guide-cards.md#Cards-Create)
-* [Download](optikpi-user-guide-cards.md#Cards-Download)
-* [Add action](optikpi-user-guide-cards.md#Cards-Addaction)
-* [Edit](optikpi-user-guide-cards.md#Cards-Edit)
-* [Clone](optikpi-user-guide-cards.md#Cards-Clone)
-* [Delete](optikpi-user-guide-cards.md#Cards-Delete)
+* [Create](optikpi-user-guide-cards.md#cards-create)
+* [Download](optikpi-user-guide-cards.md#cards-download)
+* [Add action](optikpi-user-guide-cards.md#cards-addaction)
+* [Edit](optikpi-user-guide-cards.md#cards-edit)
+* [Clone](optikpi-user-guide-cards.md#cards-clone)
+* [Delete](optikpi-user-guide-cards.md#cards-delete)
+
+<mark style="color:red;">**This module is set for deprecation.**</mark>&#x20;
+
+<mark style="color:red;">**Use the**</mark> [<mark style="color:red;">**Segment**</mark>](optikpi-user-guide-segments.md) <mark style="color:red;">**module for the users segmentation based on different criterias.**</mark>
 
 Cards represent unique players of a given List based on criteria. Cards are bounded to particular Lists.
 
@@ -18,7 +22,7 @@ There are 2 ways how you can create a new Card.
 
 The procedure of creation Cards in both cases is the same.
 
-1\. Start creating a Card by pressing the "Create New Card" button From the "Cards" home screen.
+1\. Start creating a Card by pressing the "Create New Card" button from the "Cards" home screen.
 
 ![](.gitbook/assets/271941670.jpg)
 
