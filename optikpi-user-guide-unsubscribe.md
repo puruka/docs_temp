@@ -6,7 +6,7 @@ Once clicked on it, you need to add conditions based on which users would be exc
 
 I. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Right Side.
 
-![](<.gitbook/assets/image (107).png>)
+![](<.gitbook/assets/image (107) (1).png>)
 
 2\. Select a List
 
@@ -22,11 +22,11 @@ I. Start Admin configuration by pressing the "OptiKPI Admin" button in the Up Ri
 
 5\. Press the "Add" button.
 
-![](<.gitbook/assets/image (109).png>)
+![](<.gitbook/assets/image (109) (1).png>)
 
 6\. You can Add one more condition or press the "Update" button to finish.
 
-![](<.gitbook/assets/image (108).png>)
+![](<.gitbook/assets/image (108) (1).png>)
 
 7\. From this moment on users who fulfill set blocking will be excluded for any kind of communication as and when a journey or action get created.
 

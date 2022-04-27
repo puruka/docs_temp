@@ -1,67 +1,57 @@
 # Optikpi User Guide : Segments
 
-* [Create](optikpi-user-guide-segments.md#Segments-Create)
-* [Download](optikpi-user-guide-segments.md#Segments-Download)
-* [Add action to Segment](optikpi-user-guide-segments.md#Segments-AddactiontoSegment)
-* [Edit](optikpi-user-guide-segments.md#Segments-Edit)
-* [Clone](optikpi-user-guide-segments.md#Segments-Clone)
-* [Delete](optikpi-user-guide-segments.md#Segments-Delete)
+* [Create](optikpi-user-guide-segments.md#segments-create)
+* [Download](optikpi-user-guide-segments.md#segments-download)
+* [Add action to Segment](optikpi-user-guide-segments.md#segments-addactiontosegment)
+* [Edit](optikpi-user-guide-segments.md#segments-edit)
+* [Clone](optikpi-user-guide-segments.md#segments-clone)
+* [Delete](optikpi-user-guide-segments.md#segments-delete)
 
-Segments are similar to Cards, represent Unique players. You create a segment by combining existing Cards to create higher level customer buckets.
+Segments represent unique players of given Lists based on different criterias. Segments can be bounded to several Retention Lists.
+
+Use segments to create higher level customer buckets.
 
 ## Create <a href="#segments-create" id="segments-create"></a>
 
-Go to the main Segment screen to start working with Segments.
+Go to the main Segments screen to start working with Segments.
 
-I. Start creating a Segment pressing the "Create Segment" button From the "Segments" home screen.
+I. Start creating a Segment pressing the "Create Segment" button From the "Segments" home screen panel .
 
 ![](.gitbook/assets/271941781.jpg)
 
 2\. Provide a meaningful name for your Segment.
 
-![](.gitbook/assets/271941787.jpg)
+![](<.gitbook/assets/image (105).png>)
 
 3\. Add criteria for your Segment at the “Filters” section.
 
-![](.gitbook/assets/271941793.jpg)
+![](.gitbook/assets/demo1\_27.jpg)
 
-4\. Clicking on “Add rule” you can add more criteria.
+4\. By clicking on the “Add rule” button you can add more criteria.
 
-![](.gitbook/assets/271941799.jpg)
+![](<.gitbook/assets/image (108).png>)
 
-5\. You can select the "Cards" you wanted to combine for the Segment.
+5\. By clicking ![](<.gitbook/assets/image (106).png>) you can add more criteria based on the same List.
 
-![](.gitbook/assets/271941805.jpg)
+![](<.gitbook/assets/image (110).png>)
 
-6\. After selecting the cards, press the "Execute" button.
+6\. After settings all rules, press the "Execute" button.
 
-![](.gitbook/assets/271941811.jpg)
+![](<.gitbook/assets/image (109).png>)
 
 7\. Customers matching those selection criteria will be displayed in the table below.
 
-![](.gitbook/assets/271941817.jpg)
+![](<.gitbook/assets/image (104).png>)
 
-8\. Save your newly created Segment with a name, so we can use to trigger Actions on it.
+8\. Save your newly created Segment.
 
-![](.gitbook/assets/271941823.jpg)
+![](<.gitbook/assets/image (111).png>)
 
-9\. You can see the new Segment from the "Segments" home screen.
+9\. You will see the new Segment from the "Segments" home screen.
 
-![](.gitbook/assets/271941829.jpg)
+![](<.gitbook/assets/image (94).png>)
 
-10\. Or before saving you can work with a Segment. Set your own Column Setting by choosing Available Fields.
 
-![](.gitbook/assets/271941835.jpg)
-
-11\. You can download data in CSV format.
-
-![](.gitbook/assets/271941841.jpg)
-
-12\. You can sort data in ascending or descending order.
-
-![](.gitbook/assets/271941847.jpg)
-
-13\. Save your newly created Segment with a name, so we can use to start Actions on it.
 
 ## Download <a href="#segments-download" id="segments-download"></a>
 
