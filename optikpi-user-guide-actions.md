@@ -33,7 +33,7 @@ Optikpi enables you to set up a **triggered, recurring** or **single send** acti
 
 **Single Send Action** scheduled to run once.
 
-Action can be executed by the following channel: **Push notification, SMS Action, Email Action, Web API**. And set Launch Time for your Campaign.
+Action can be executed by the following channel: **Push notification, SMS Action, Email Action, Web API**.&#x20;
 
 ## Triggered Action <a href="#actions-triggeredaction" id="actions-triggeredaction"></a>
 
@@ -59,51 +59,47 @@ I. Start creating a new Action by pressing the "Create New Action" button from t
 
 ![](<.gitbook/assets/image (41).png>)
 
-3\. Provide Action’s name.&#x20;
-
-![](<.gitbook/assets/image (18).png>)
-
-4\. Provide Action Name; End Date. And press the Next button.
+3\. Provide Action Name, End Date, and press the Next button.
 
 Triggered Action scheduled to run every 5 minutes since launched till date which you pointed.
 
 ![](.gitbook/assets/271286464.jpg)
 
-5\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
+4\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or Existing Actions.
 
 ![](.gitbook/assets/272302097.jpg)
 
-6\. Press the “Execute” button to see the data.
+5\. Press the “Execute” button to see the data.
 
 ![](.gitbook/assets/271515874.jpg)
 
-7\. Press the “Next” button to go to the next step.
+6\. Press the “Next” button to go to the next step.
 
 ![](.gitbook/assets/271188086.jpg)
 
-8\. Create a Template of your Action.
+7\. Create a Template of your Action.
 
 ![](.gitbook/assets/268566678.jpg)
 
 
 
-9\. Press the “Next” button to continue.
+8\. Press the “Next” button to continue.
 
 ![](.gitbook/assets/271220826.jpg)
 
-10\. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
+9\. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
 ![](<.gitbook/assets/272039964 (1).jpg>)
 
-11\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.&#x20;
+10\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.&#x20;
 
 ![](<.gitbook/assets/image (18) (1).png>)
 
-12\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+11\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
 ![](<.gitbook/assets/271482968 (3).jpg>)
 
-13\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+12\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
 
 Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
 
@@ -111,36 +107,36 @@ Your Action has “Active” status and in several minutes you will see the data
 
 ![](<.gitbook/assets/271482949 (1).jpg>)
 
-14\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
+13\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
 ![](<.gitbook/assets/274563093 (1).jpg>)
 
 
 
-* [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#Actions-EditTriggeredAction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#Actions-CloneTriggeredAction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#Actions-DeleteTriggeredAction)
-* [Recurring Action](optikpi-user-guide-actions.md#Actions-RecurringAction)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#Actions-CreateRecurringAction)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#Actions-EditRecurringAction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#Actions-CloneRecurringAction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#Actions-DeleteRecurringAction)
-* [Single Send Action](optikpi-user-guide-actions.md#Actions-SingleSendAction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#Actions-CreateSingleSendAction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#Actions-EditSingleSendAction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#Actions-CloneSingleSendAction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#Actions-DeleteSingleSendAction)
-* [Email Actions](optikpi-user-guide-actions.md#Actions-EmailActions)
-  * [Email action creation](optikpi-user-guide-actions.md#Actions-Emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport)
-* [Push Notification](optikpi-user-guide-actions.md#Actions-PushNotification)
-  * [Push action creation](optikpi-user-guide-actions.md#Actions-Pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.1)
-* [SMS Action](optikpi-user-guide-actions.md#Actions-SMSAction)
-  * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
+* [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
+  * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
+  * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
+  * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
+  * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
+* [Recurring Action](optikpi-user-guide-actions.md#actions-recurringaction)
+  * [Create Recurring Action](optikpi-user-guide-actions.md#actions-createrecurringaction)
+  * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
+  * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
+  * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
+* [Single Send Action](optikpi-user-guide-actions.md#actions-singlesendaction)
+  * [Create Single Send Action](optikpi-user-guide-actions.md#actions-createsinglesendaction)
+  * [Edite Single Send Action](optikpi-user-guide-actions.md#actions-editsinglesendaction)
+  * [Clone Single Send Action](optikpi-user-guide-actions.md#actions-clonesinglesendaction)
+  * [Delete Single Send Action](optikpi-user-guide-actions.md#actions-deletesinglesendaction)
+* [Email Actions](optikpi-user-guide-actions.md#actions-emailactions)
+  * [Email action creation](optikpi-user-guide-actions.md#actions-emailactioncreation)
+  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport)
+* [Push Notification](optikpi-user-guide-actions.md#actions-pushnotification)
+  * [Push action creation](optikpi-user-guide-actions.md#actions-pushactioncreation)
+  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.1)
+* [SMS Action](optikpi-user-guide-actions.md#actions-smsaction)
+  * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
+  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
 
 ### Edit Triggered Action <a href="#actions-edittriggeredaction" id="actions-edittriggeredaction"></a>
 
