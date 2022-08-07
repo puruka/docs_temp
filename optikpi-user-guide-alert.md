@@ -196,13 +196,13 @@ I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
 4\. Press the “Save” button for saving.
 
-![](<.gitbook/assets/image (63).png>)
+![](<.gitbook/assets/image (63) (1).png>)
 
 ### Clone Alert
 
 I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 2\. Click the “Clone” button.
 
@@ -216,7 +216,7 @@ I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
 I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
-![](<.gitbook/assets/image (9) (1).png>)
+![](<.gitbook/assets/image (9) (1) (1).png>)
 
 2\. Click the “Delete” button.
 

@@ -2,37 +2,37 @@
 
 ## Push Notification&#x20;
 
-[Firebase  ](https://firebase.google.com)
+[Firebase  ](https://firebase.google.com/)
 
-[OneSignal](https://onesignal.com)
+[OneSignal](https://onesignal.com/)
 
-[PushWoosh](https://www.pushwoosh.com)
+[PushWoosh](https://www.pushwoosh.com/)
 
 ## Emails
 
-[SendGrid](https://sendgrid.com)
+[SendGrid](https://sendgrid.com/)
 
 ## SMS
 
-[TextLocal](https://www.textlocal.com)
+[TextLocal](https://www.textlocal.com/)
 
-[TextLocal India](https://www.textlocal.in)
+[TextLocal India](https://www.textlocal.in/)
 
-[Twilio](https://www.twilio.com)
+[Twilio](https://www.twilio.com/)
 
-[ValueLeaf](http://smpp.valueleaf.com)
+[ValueLeaf](http://smpp.valueleaf.com/)
 
-[Msg91](https://msg91.com)
+[Msg91](https://msg91.com/)
 
-[BulkSMS](https://www.bulksms.com)
+[BulkSMS](https://www.bulksms.com/)
 
-[Soprano](https://www.sopranodesign.com)
+[Soprano](https://www.sopranodesign.com/)
 
-[Times SMS](http://timessms.com)
+[Times SMS](http://timessms.com/)
 
-[Iissms](http://mysms.iissms.co.in)
+[Iissms](http://mysms.iissms.co.in/)
 
-[Nimbus SMS India](https://nimbusit.biz)
+[Nimbus SMS India](https://nimbusit.biz/)
 
 ****
 

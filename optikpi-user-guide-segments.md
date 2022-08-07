@@ -6,6 +6,7 @@
 * [Edit](optikpi-user-guide-segments.md#segments-edit)
 * [Clone](optikpi-user-guide-segments.md#segments-clone)
 * [Delete](optikpi-user-guide-segments.md#segments-delete)
+* Inactivate Segment
 
 Segments represent unique players of given Lists based on different criterias. Segments can be bounded to several Retention Lists.
 
@@ -102,3 +103,32 @@ By Clicking on 3 dots on the Segment panel, a popup with comes up. **Clone** all
 By Clicking on 3 dots on the Segment panel, a popup with comes up. **Delete** allows delete Segment.
 
 ![](.gitbook/assets/271220812.jpg)
+
+## Inactivate Segment
+
+**Any newly created Segment is active by default.**&#x20;
+
+There is a feature to **deactivate Segments**.&#x20;
+
+_Deactivated Segments are not available in the Dashboards._&#x20;
+
+_Deactivated Segments are not available for Actions creation._
+
+**How to deactivate Segments.**
+
+****
+
+I**.** Getting start with the Segment main screen.
+
+Check if your page is in the Card View Mode.
+
+![](<.gitbook/assets/image (9).png>)
+
+2\. The activation toggle switcher is located in the in the lower right corner of the segment card.
+
+![](<.gitbook/assets/image (63).png>)
+
+3\. For state changing of the Segment click on the Toggle once.
+
+![](.gitbook/assets/inactive1.gif)
+
