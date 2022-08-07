@@ -116,9 +116,7 @@ _Deactivated Segments are not available for Actions creation._
 
 **How to deactivate Segments.**
 
-****
-
-I**.** Getting start with the Segment main screen.
+1. Getting start with the Segment main screen.
 
 Check if your page is in the Card View Mode.
 
