@@ -110,9 +110,9 @@ By Clicking on 3 dots on the Segment panel, a popup with comes up. **Delete** al
 
 There is a feature to **deactivate Segments**.&#x20;
 
-_Deactivated Segments are not available in the Dashboards._&#x20;
+_**Deactivated Segments are not available in the Dashboards.**_&#x20;
 
-_Deactivated Segments are not available for Actions creation._
+_**Deactivated Segments are not available for Actions creation.**_
 
 **How to deactivate Segments.**
 
@@ -129,4 +129,8 @@ Check if your page is in the Card View Mode.
 3\. For state changing of the Segment click on the Toggle once.
 
 ![](.gitbook/assets/inactive1.gif)
+
+_**Deactivated Segments are not available in the Dashboards.**_&#x20;
+
+_**Deactivated Segments are not available for Actions creation.**_
 
