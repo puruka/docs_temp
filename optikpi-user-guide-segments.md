@@ -6,7 +6,7 @@
 * [Edit](optikpi-user-guide-segments.md#segments-edit)
 * [Clone](optikpi-user-guide-segments.md#segments-clone)
 * [Delete](optikpi-user-guide-segments.md#segments-delete)
-* Inactivate Segment
+* [Inactivate Segment](optikpi-user-guide-segments.md#inactivate-segment)
 
 Segments represent unique players of given Lists based on different criterias. Segments can be bounded to several Retention Lists.
 
