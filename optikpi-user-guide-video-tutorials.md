@@ -12,9 +12,7 @@
 
 [https://www.youtube.com/watch?v=xDyVYcmME2I](https://www.youtube.com/watch?v=xDyVYcmME2I)
 
-**Rule Engine - How to use Filters in Segments**
-
-****[https://www.youtube.com/watch?v=Vi6v4ZBwZI8](https://www.youtube.com/watch?v=Vi6v4ZBwZI8)
+**Rule Engine - How to use Filters in Segments** [https://www.youtube.com/watch?v=Vi6v4ZBwZI8](https://www.youtube.com/watch?v=Vi6v4ZBwZI8)
 
 #### Crads - How to Apply Filters and Create Cards
 
