@@ -87,15 +87,13 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 ![](.gitbook/assets/2022\_08\_10.jpg)
 
-3\. Provide Title and Description.
+3\. Change the auto-generated name and click the "Update" button.
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (2).png>)
 
-4\. Press the "Save" button.
 
-![](.gitbook/assets/j9.jpg)
 
-5\. Now your Journey is saved. You can continue creating or activate it.
+4\. Now your Journey is saved. You can continue creating or activate it.
 
 ![](.gitbook/assets/2022\_08\_10\_1.jpg)
 
@@ -121,11 +119,11 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/j5 (1).jpg>)
+![](<.gitbook/assets/image (6).png>)
 
 2\. Click this icon, it will allow you to choose the "Re-arrange" command.
 
-![](.gitbook/assets/j9rearrange.jpg)
+![](.gitbook/assets/2022\_08\_10\_2.jpg)
 
 3\. Press "Re-arrange" to re-arrange the Journey.
 
@@ -135,37 +133,37 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/j5 (1).jpg>)
+![](<.gitbook/assets/image (4).png>)
 
 2\. Click this icon, it will allow you to choose the "Clear" command.
 
-![](<.gitbook/assets/image (68).png>)
+![](.gitbook/assets/2022\_08\_10\_3.jpg)
 
 3\. Confirm that you want to remove all the blocks from the Journey by pressing the "Clear" button.
 
-![](.gitbook/assets/j9clear1.jpg)
+![](<.gitbook/assets/image (2).png>)
 
-4\. Your Journey will return to the first step.
+4\. Now you can start from the first step.
 
-![](.gitbook/assets/j9clear2.jpg)
+![](<.gitbook/assets/image (3).png>)
 
 #### Activate
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/j5 (1).jpg>)
+![](<.gitbook/assets/image (1).png>)
 
 2\. Click this icon, it will allow you to choose the "Activate" command.
 
-![](.gitbook/assets/j9activate.jpg)
+![](.gitbook/assets/2022\_08\_10\_4.jpg)
 
 3\. Set Start and End Date for your Journey.
 
-![](.gitbook/assets/t29.jpg)
+![](<.gitbook/assets/image (5).png>)
 
 4\. Press the "Activate button" and the Journey will start in several minutes.
 
-![](.gitbook/assets/t30.jpg)
+![](.gitbook/assets/image.png)
 
 #### Deactivate
 
@@ -175,11 +173,11 @@ I. After activation, it's possible to deactivate the Journey. At the top left of
 
 2\. Click this icon, it will allow you to choose the "Deactivate" command.
 
-![](.gitbook/assets/t31.jpg)
+The deactivation feature breaks of the Journey.
 
-3\. After deactivation, you can change conditions in the blocks by clicking a unit you need.
+![](.gitbook/assets/2022\_08\_10\_5.jpg)
 
-![](.gitbook/assets/t32.jpg)
+
 
 ### Enter Journey
 

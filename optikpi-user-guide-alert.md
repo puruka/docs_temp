@@ -88,7 +88,7 @@ I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
 4\. Press the “Save” button for saving.
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 ### Clone Alert Provider
 

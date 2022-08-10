@@ -143,7 +143,7 @@ I. Start creating your Funnel by choosing this type of data presenting in the to
 
 ![](<.gitbook/assets/image (52).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 ![](<.gitbook/assets/image (15).png>)
 
@@ -205,7 +205,7 @@ I. Start editing a Dashboard by pressing the "Edit" button From the "Dashboards"
 
 4\. You can Remove KPI from the current Dashboards. This KPI will still be available in the Default Dashboard (where are all KPIs gathered).
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 5\. You can Delete KPI - in this case, KPI will be deleted irretrievably.![](blob:https://optikpi.atlassian.net/06fcfb55-3261-4316-9571-d1b58852cd67#media-blob-url=true\&id=a0e725d2-c787-4ebd-8f72-aca5615b1345\&collection=contentId-285474833\&contextId=285474833\&mimeType=image%2Fjpeg\&name=D36.jpg\&size=255444\&width=1907\&height=1031)
 
@@ -231,7 +231,7 @@ I. Start editing a KPI by pressing the "Edit" button From the "Dashboards" home 
 
 5\.  Press the “Update” button to finish.![](blob:https://optikpi.atlassian.net/a99ed94a-f2ee-4e39-93be-2b0ac7eb87d3#media-blob-url=true\&id=f308f545-87af-49cc-970b-75a42042f652\&collection=contentId-285474833\&contextId=285474833\&mimeType=image%2Fjpeg\&name=D39.jpg\&size=189402\&width=1917\&height=1039)
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 ## Delete KPI <a href="#dashboards-deletekpi" id="dashboards-deletekpi"></a>
 
