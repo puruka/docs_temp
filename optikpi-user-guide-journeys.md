@@ -4,7 +4,7 @@
 
 [Create NewJourney](https://app.gitbook.com/@puru/s/optikpi-user-guide/\~/drafts/-MYubqWgT-SbgBLgFFF9/optikpi-user-guide-journeys#create-newjourney)
 
-[Edit Journey](https://app.gitbook.com/@puru/s/optikpi-user-guide/\~/drafts/-MYubqWgT-SbgBLgFFF9/optikpi-user-guide-journeys#edit-journey)
+[Edit Journey](optikpi-user-guide-journeys.md#edit-journey)
 
 [Clone Journey](https://app.gitbook.com/@puru/s/optikpi-user-guide/\~/drafts/-MYubqWgT-SbgBLgFFF9/optikpi-user-guide-journeys#clone-journey)
 
@@ -133,7 +133,7 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/image (4) (1).png>)
+![](<.gitbook/assets/image (4).png>)
 
 2\. Click this icon, it will allow you to choose the "Clear" command.
 
@@ -423,7 +423,7 @@ During the editing Journey only the Enter Journey block is not editable. The res
 
 8\. Confirm Start and End Date.
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (1).png>)
 
 Your journey activated successfully.
 
