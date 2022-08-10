@@ -12,7 +12,7 @@
 
 ## Getting start with Journey
 
-Use this feature for creating entire customer Journey across channels and events.
+**Use this feature for creating entire customer Journey across channels and events.**
 
 You can build a Journey using the Journey tools and the Actions that are available in the Sketchpad. The Sketchpad contains two types of blocks - Journey Actions and Journey tools.
 
@@ -24,32 +24,32 @@ Working with Journey, consider the following categories:
 
 **Journey features** - description of Journey functions.&#x20;
 
-| Feature    | Description                                    |
-| ---------- | ---------------------------------------------- |
-| Clone      | Clone is creating an identical Journey         |
-| Re-arrange | Re-arrange return to default position          |
-| Clear      | Clear and return to the first stage            |
-| Activate   | Make Journey active                            |
-| Deactivate | Make Journey inactive, stop actions' launching |
+| Feature        | Description                                    |
+| -------------- | ---------------------------------------------- |
+| Clone          | Clone is creating an identical Journey         |
+| **Re-arrange** | Re-arrange return to default position          |
+| **Clear**      | Clear and return to the first stage            |
+| **Activate**   | Make Journey active                            |
+| **Deactivate** | Make Journey inactive, stop actions' launching |
 
 **Journey Actions** - allow to integrate with delivery channels.
 
-| Actions | Descriopion                                                                 |
-| ------- | --------------------------------------------------------------------------- |
-| Push    | Is the action with a message that pops up on the user's device              |
-| SMS     | Is the action through outgoing SMS text messages to different recipients    |
-| Email   | The action is an email notification, can be plain text or styled using HTML |
-| Web     | Action will be sent out based on the action definition.                     |
+| Actions   | Descriopion                                                                 |
+| --------- | --------------------------------------------------------------------------- |
+| **Push**  | Is the action with a message that pops up on the user's device              |
+| **SMS**   | Is the action through outgoing SMS text messages to different recipients    |
+| **Email** | The action is an email notification, can be plain text or styled using HTML |
+| **Web**   | Action will be sent out based on the action definition.                     |
 
 **Journey tools** - help you to design Journey execution logic.
 
-| Tools           | Description                                                                                                         |
-| --------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Enter Journey   | Block allows you to set Users' flow based on configured conditions                                                  |
-| Event Occurred  | Block allows you to split the Users flow based on any events that happened or the audience response to any actions. |
-| Time has passed | Block allows to set period of time that must pass                                                                   |
-| Filter Group    | Block allows to split the Journey user flow based on configured conditions.                                         |
-| Exit Journey    | Block allows to measure the percentage of actions execution                                                         |
+| Tools               | Description                                                                                                         |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Enter Journey**   | Block allows you to set Users' flow based on configured conditions                                                  |
+| **Event Occurred**  | Block allows you to split the Users flow based on any events that happened or the audience response to any actions. |
+| **Time has passed** | Block allows to set period of time that must pass                                                                   |
+| **Filter Group**    | Block allows to split the Journey user flow based on configured conditions.                                         |
+| **Exit Journey**    | Block allows to measure the percentage of actions execution                                                         |
 
 ## Create New Journey
 
@@ -61,7 +61,7 @@ Working with Journey, consider the following categories:
 
 I. Start creating a Journey by pressing the "Create New Journey" button from the "Journeys" home screen.
 
-![](.gitbook/assets/j1.jpg)
+![](<.gitbook/assets/image (1).png>)
 
 2\. Drag blocks from the left-side panel. To move an item: hover the mouse pointer over the block press and hold the mouse button, as you drag and drop the item into its new location on the sketchpad.
 
@@ -79,17 +79,17 @@ I. Start creating a Journey by pressing the "Create New Journey" button from the
 
 #### Save
 
-I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
+I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 ![](<.gitbook/assets/j5 (1).jpg>)
 
 2\. Click this icon, it will allow you to choose the "Save" command.
 
-![](.gitbook/assets/j6.jpg)
+![](.gitbook/assets/2022\_08\_10.jpg)
 
 3\. Provide Title and Description.
 
-![](.gitbook/assets/j8.jpg)
+![](<.gitbook/assets/image (2).png>)
 
 4\. Press the "Save" button.
 
@@ -97,9 +97,11 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 5\. Now your Journey is saved. You can continue creating or activate it.
 
-![](.gitbook/assets/t25.jpg)
+![](.gitbook/assets/2022\_08\_10\_1.jpg)
 
 #### Clone
+
+<mark style="color:red;">**Feature currently not available**</mark>
 
 I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
@@ -117,7 +119,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 #### Re-arrange
 
-I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
+I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 ![](<.gitbook/assets/j5 (1).jpg>)
 
@@ -131,7 +133,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 #### Clear
 
-I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
+I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 ![](<.gitbook/assets/j5 (1).jpg>)
 
@@ -149,7 +151,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 #### Activate
 
-I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
+I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 ![](<.gitbook/assets/j5 (1).jpg>)
 
@@ -167,7 +169,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 #### Deactivate
 
-I. After activation, it's possible to deactivate the Journey. At the top left of the activated journey, you’ll notice a tool icon.
+I. After activation, it's possible to deactivate the Journey. At the top left of the activated journey, find a tool icon.
 
 ![](.gitbook/assets/t31\_1.jpg)
 
