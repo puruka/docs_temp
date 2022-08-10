@@ -133,7 +133,7 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 2\. Click this icon, it will allow you to choose the "Clear" command.
 
@@ -395,7 +395,7 @@ I. Start from the main "Journeys" home screen.
 
 ![](<.gitbook/assets/image (8).png>)
 
-2\. Enter into the Journey you need to Edit by clicking on the Name or the View icon.&#x20;
+2\. Enter into the Journey by clicking on the Name or the View icon.&#x20;
 
 ![](<.gitbook/assets/image (10).png>)
 
@@ -413,9 +413,23 @@ During the editing Journey only the Enter Journey block is not editable. The res
 
 ![](<.gitbook/assets/image (5).png>)
 
+6\. To finish find the Service tools icon at the right part of the Navigation bar and press the “Save” button.&#x20;
 
+![](.gitbook/assets/2022\_08\_10\_8.jpg)
+
+7\. Press the “Activate” button.&#x20;
+
+![](.gitbook/assets/2022\_08\_10\_7.jpg)
+
+8\. Confirm Start and End Date.
+
+![](<.gitbook/assets/image (4).png>)
+
+Your journey activated successfully.
 
 ## Clone Journey
+
+<mark style="color:red;">**Feature currently not available**</mark>
 
 I. Start from the main "Journeys" home screen.
 

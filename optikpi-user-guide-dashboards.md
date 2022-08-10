@@ -205,7 +205,7 @@ I. Start editing a Dashboard by pressing the "Edit" button From the "Dashboards"
 
 4\. You can Remove KPI from the current Dashboards. This KPI will still be available in the Default Dashboard (where are all KPIs gathered).
 
-![](<.gitbook/assets/image (4) (1).png>)
+![](<.gitbook/assets/image (4) (1) (1).png>)
 
 5\. You can Delete KPI - in this case, KPI will be deleted irretrievably.![](blob:https://optikpi.atlassian.net/06fcfb55-3261-4316-9571-d1b58852cd67#media-blob-url=true\&id=a0e725d2-c787-4ebd-8f72-aca5615b1345\&collection=contentId-285474833\&contextId=285474833\&mimeType=image%2Fjpeg\&name=D36.jpg\&size=255444\&width=1907\&height=1031)
 
