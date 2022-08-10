@@ -6,7 +6,7 @@
 * [Clone](optikpi-user-guide-templates.md#Templates-Clone)
 * [Delete](optikpi-user-guide-templates.md#Templates-Delete)
 
-## Create New Templates while Email action creation <a href="templates-createnewtemplateswhileemailactioncreation" id="templates-createnewtemplateswhileemailactioncreation"></a>
+## Create New Templates while Email action creation <a href="#templates-createnewtemplateswhileemailactioncreation" id="templates-createnewtemplateswhileemailactioncreation"></a>
 
 I. Start creating an Email Notification by pressing the "Create New Action" button From the "Actions" home screen.
 
@@ -96,7 +96,7 @@ If Template Disabled you will not see it while Email action creation
 * [Clone](optikpi-user-guide-templates.md#Templates-Clone)
 * [Delete](optikpi-user-guide-templates.md#Templates-Delete)
 
-## Create New Templates <a href="templates-createnewtemplates" id="templates-createnewtemplates"></a>
+## Create New Templates <a href="#templates-createnewtemplates" id="templates-createnewtemplates"></a>
 
 **This tutorial video will help you to Create a New Templates**
 
@@ -120,7 +120,7 @@ I. Start creating a new Template by pressing the "Create New Template" button fr
 
 ![](.gitbook/assets/285573173.jpg)
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
 4\. In the text content, you can personalize the text content by adding relevant merge tags.
 
@@ -176,7 +176,7 @@ I. Start creating a new Template by pressing the "Create New Template" button fr
 * [Clone](optikpi-user-guide-templates.md#Templates-Clone)
 * [Delete](optikpi-user-guide-templates.md#Templates-Delete)
 
-## Edit <a href="templates-edit" id="templates-edit"></a>
+## Edit <a href="#templates-edit" id="templates-edit"></a>
 
 I. Start editing Template by by clicking on 3 dots on the Action - Email Templates panel, a popup with comes up. Click the “Edit” button
 
@@ -201,7 +201,7 @@ If Template Disabled you will not see it while Email action creation
 * [Clone](optikpi-user-guide-templates.md#Templates-Clone)
 * [Delete](optikpi-user-guide-templates.md#Templates-Delete)
 
-## Clone <a href="templates-clone" id="templates-clone"></a>
+## Clone <a href="#templates-clone" id="templates-clone"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
 
@@ -219,7 +219,7 @@ I. Start cloning Template by clicking on 3 dots on the Action - Email Templates 
 * [Clone](optikpi-user-guide-templates.md#Templates-Clone)
 * [Delete](optikpi-user-guide-templates.md#Templates-Delete)
 
-## Delete <a href="templates-delete" id="templates-delete"></a>
+## Delete <a href="#templates-delete" id="templates-delete"></a>
 
 I. Start deleting Template by clicking on 3 dots on the Action - Email Templates panel, a popup with comes up. Click the “Delete” button.
 

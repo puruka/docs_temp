@@ -1033,7 +1033,7 @@ I. Start creating a Push Notification by pressing "Create New Action" button Fro
 
 Optikpi offers merge tags for all kinds of dynamic information. Choose a merge tag for your push message to add personalized or dynamic content.
 
-![](<.gitbook/assets/image (3) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 8\. Fill **Push Message field**
 
@@ -1057,7 +1057,7 @@ then press the "Upload" button.
 
 12\.  Use the right panel to preview how your Push Notification looks on different devices.
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (2).png>)
 
 13\. Press the “Next” button&#x20;
 

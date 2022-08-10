@@ -141,17 +141,17 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 3\. Confirm that you want to remove all the blocks from the Journey by pressing the "Clear" button.
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 4\. Now you can start from the first step.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 #### Activate
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 2\. Click this icon, it will allow you to choose the "Activate" command.
 
@@ -159,11 +159,11 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 3\. Set Start and End Date for your Journey.
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 4\. Press the "Activate button" and the Journey will start in several minutes.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (2).png>)
 
 #### Deactivate
 
@@ -387,17 +387,33 @@ I. Double click on the "Web Action" block opens it.
 
 ## Edit Journey
 
+The feature inactives Journey during edit, allows you to put some changes, add / delete blocks of actions, then Journey needs to be activated again manually.&#x20;
+
+During the editing Journey only the Enter Journey block is not editable. The rest of all are editable. As well as you can add a new Action’s block to the Journey (SMS, email, Push or Web API).
+
 I. Start from the main "Journeys" home screen.
 
-![](.gitbook/assets/t15.jpg)
+![](<.gitbook/assets/image (8).png>)
 
-2\. Press the "Edit" icon.
+2\. Enter into the Journey you need to Edit by clicking on the Name or the View icon.&#x20;
 
-![](.gitbook/assets/t16.jpg)
+![](<.gitbook/assets/image (10).png>)
 
-3\. You can change names and settings for blocks.
+3\. Find the Service tools icon at the right part of the Navigation bar and click the “Edit” button.
 
-![](.gitbook/assets/t24.jpg)
+![](.gitbook/assets/2022\_08\_10\_6.jpg)
+
+4\. Confirm Edit.
+
+![](<.gitbook/assets/image (3).png>)
+
+5\. The feature inactives Journey during edit, allows you to put some changes, add / delete blocks of actions, then Journey needs to be activated again manually.&#x20;
+
+During the editing Journey only the Enter Journey block is not editable. The rest of all are editable. As well as you can change, add or delete Action’s block to the Journey (SMS, email, Push or Web API).
+
+![](<.gitbook/assets/image (5).png>)
+
+
 
 ## Clone Journey
 
