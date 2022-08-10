@@ -24,7 +24,7 @@ Working with Journey, consider the following categories:
 
 **Journey features** - description of Journey functions.&#x20;
 
-| Feature        | Description                                    |
+| _**Feature**_  | _**Description**_                              |
 | -------------- | ---------------------------------------------- |
 | Clone          | Clone is creating an identical Journey         |
 | **Re-arrange** | Re-arrange return to default position          |
@@ -34,16 +34,16 @@ Working with Journey, consider the following categories:
 
 **Journey Actions** - allow to integrate with delivery channels.
 
-| Actions   | Descriopion                                                                 |
-| --------- | --------------------------------------------------------------------------- |
-| **Push**  | Is the action with a message that pops up on the user's device              |
-| **SMS**   | Is the action through outgoing SMS text messages to different recipients    |
-| **Email** | The action is an email notification, can be plain text or styled using HTML |
-| **Web**   | Action will be sent out based on the action definition.                     |
+| _**Actions**_ | _**Description**_                                                           |
+| ------------- | --------------------------------------------------------------------------- |
+| **Push**      | Is the action with a message that pops up on the user's device              |
+| **SMS**       | Is the action through outgoing SMS text messages to different recipients    |
+| **Email**     | The action is an email notification, can be plain text or styled using HTML |
+| **Web**       | Action will be sent out based on the action definition.                     |
 
 **Journey tools** - help you to design Journey execution logic.
 
-| Tools               | Description                                                                                                         |
+| _**Tools**_         | _**Description**_                                                                                                   |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Enter Journey**   | Block allows you to set Users' flow based on configured conditions                                                  |
 | **Event Occurred**  | Block allows you to split the Users flow based on any events that happened or the audience response to any actions. |
@@ -61,7 +61,7 @@ Working with Journey, consider the following categories:
 
 I. Start creating a Journey by pressing the "Create New Journey" button from the "Journeys" home screen.
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (46).png>)
 
 2\. Drag blocks from the left-side panel. To move an item: hover the mouse pointer over the block press and hold the mouse button, as you drag and drop the item into its new location on the sketchpad.
 
@@ -89,7 +89,7 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 3\. Provide Title and Description.
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (6).png>)
 
 4\. Press the "Save" button.
 

@@ -143,7 +143,7 @@ I. Start creating your Funnel by choosing this type of data presenting in the to
 
 ![](<.gitbook/assets/image (52).png>)
 
-![](<.gitbook/assets/image (2) (1).png>)
+![](<.gitbook/assets/image (2).png>)
 
 ![](<.gitbook/assets/image (15).png>)
 
@@ -231,7 +231,7 @@ I. Start editing a KPI by pressing the "Edit" button From the "Dashboards" home 
 
 5\.  Press the “Update” button to finish.![](blob:https://optikpi.atlassian.net/a99ed94a-f2ee-4e39-93be-2b0ac7eb87d3#media-blob-url=true\&id=f308f545-87af-49cc-970b-75a42042f652\&collection=contentId-285474833\&contextId=285474833\&mimeType=image%2Fjpeg\&name=D39.jpg\&size=189402\&width=1917\&height=1039)
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1).png>)
 
 ## Delete KPI <a href="#dashboards-deletekpi" id="dashboards-deletekpi"></a>
 

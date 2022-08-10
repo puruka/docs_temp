@@ -639,7 +639,7 @@ But your Action will proceed just 1 time.
 
 7\. Create a Template of your Action.
 
-![](<.gitbook/assets/image (3).png>)
+![](.gitbook/assets/image.png)
 
 
 

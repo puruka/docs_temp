@@ -51,11 +51,11 @@ I. Start creating a List by pressing the "New Customer List" button From the "Li
 
 2\. Provide List name, List source (API List), List Mode (Active), and List Description.
 
-![](<.gitbook/assets/image (23).png>)
+![](<.gitbook/assets/image (23) (1).png>)
 
 3\. Choose a file that contains data.
 
-![](<.gitbook/assets/image (46).png>)
+![](<.gitbook/assets/image (46) (1).png>)
 
 4\. Set Schema Definition.
 
@@ -79,7 +79,7 @@ I. Start creating a List by pressing the "New Customer List" button From the "Li
 
 9\. Clicking on the field **X** you can delete data from the list.
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
 10\. Map the following details from the List fields.
 
