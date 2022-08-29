@@ -189,15 +189,13 @@ The “Proceed to Delete” button allows to delete Actions.
 
 ![](.gitbook/assets/274989072.jpg)
 
-## &#x20;<a href="#actionsrecurring" id="actionsrecurring"></a>
-
 * [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
   * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
   * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
   * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
-* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring-1)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#actionsrecurring-1)
+* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring)
+  * [Create Recurring Action](optikpi-user-guide-actions.md#actionscreaterecurring)
   * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
   * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
   * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
