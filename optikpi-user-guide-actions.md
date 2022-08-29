@@ -411,8 +411,6 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/271482949 (1).jpg>)
-
 16\. "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
 ![](<.gitbook/assets/274563093 (1).jpg>)
