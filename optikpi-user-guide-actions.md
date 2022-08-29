@@ -53,7 +53,7 @@ Triggered Action scheduled to run every 5 minutes since launched till date which
 
 I. Start creating a new Action by pressing the "Create New Action" button from the "Actions" - “Triggered” home screen.
 
-![](<.gitbook/assets/image (13) (1).png>)
+![](<.gitbook/assets/image (13) (1) (1).png>)
 
 2\. A popup with all the list of supported Actions in Optikpi shows up. Select the type you need from the list.
 
@@ -369,7 +369,7 @@ At the Launch Time Box change the Schedule.
 
 Scheduled Action can be scheduled up to 1 hour in advance.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 6\. Closing Scheduler, click the “Next” button to continue.
 
@@ -389,29 +389,27 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 10\. Create a Template of your Action.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 11\. Press the “Next” button to continue.
 
-![](.gitbook/assets/271417407.jpg)
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 12\. **Check Action Name, Selected Configs, Action Type, Rule, Template, Start and End Date.**
 
-![](<.gitbook/assets/272039964 (1).jpg>)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 13\. In the case if you need to change something you can go back to the previous steps by clicking the corresponding steps on the top.
 
-![](.gitbook/assets/271319172.jpg)
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 14\. If everything is fine click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
 
-![](<.gitbook/assets/271482968 (3).jpg>)
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-15\. "Save and Launch" means that your campaign will be scheduled to run every 5 minutes since launched till date which you pointed.
+15\. "Save and Launch" means that your campaign will be scheduled to run since launched till date which you pointed. **** Your Action has “Active” status.
 
-Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
-
-![](.gitbook/assets/271482938.jpg)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ![](<.gitbook/assets/271482949 (1).jpg>)
 
@@ -645,7 +643,7 @@ But your Action will proceed just 1 time.
 
 7\. Create a Template of your Action.
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (2).png>)
 
 
 

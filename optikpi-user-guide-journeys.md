@@ -163,7 +163,7 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 4\. Press the "Activate button" and the Journey will start in several minutes.
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
 #### Deactivate
 

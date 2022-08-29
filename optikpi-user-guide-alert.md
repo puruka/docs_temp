@@ -202,7 +202,7 @@ I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
 I. By Clicking on 3 dots in the "Action" column, a popup comes up.
 
-![](<.gitbook/assets/image (9) (1).png>)
+![](<.gitbook/assets/image (9) (1) (2).png>)
 
 2\. Click the “Clone” button.
 
