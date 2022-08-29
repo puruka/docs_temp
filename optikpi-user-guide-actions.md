@@ -346,7 +346,7 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 5\. Or you can choose “**Recurring Scheduled**” as a Scheduled type.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 There are two **schedule types** available:&#x20;
 
@@ -367,13 +367,15 @@ Set Start and End Date of your Action.
 
 At the Launch Time Box change the Schedule.
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Scheduled Action can be scheduled up to 1 hour in advance.
 
 <figure><img src=".gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 6\. Closing Scheduler, click the “Next” button to continue.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 7\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or Existing Actions.
 
