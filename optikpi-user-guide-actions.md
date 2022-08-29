@@ -1,6 +1,7 @@
 # Optikpi User Guide : Actions
 
-*
+
+
 * [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
   * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
@@ -112,35 +113,6 @@ Your Action has “Active” status and in several minutes you will see the data
 
 ![](<.gitbook/assets/274563093 (1).jpg>)
 
-
-
-
-
-* [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
-* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#actionscreaterecurring)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
-* [Single Send Action](optikpi-user-guide-actions.md#actions-singlesendaction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#actions-createsinglesendaction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#actions-editsinglesendaction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#actions-clonesinglesendaction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#actions-deletesinglesendaction)
-* [Email Actions](optikpi-user-guide-actions.md#actions-emailactions)
-  * [Email action creation](optikpi-user-guide-actions.md#actions-emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport)
-* [Push Notification](optikpi-user-guide-actions.md#actions-pushnotification)
-  * [Push action creation](optikpi-user-guide-actions.md#actions-pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.1)
-* [SMS Action](optikpi-user-guide-actions.md#actions-smsaction)
-  * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
-
 ### Edit Triggered Action <a href="#actions-edittriggeredaction" id="actions-edittriggeredaction"></a>
 
 I. By clicking on 3 dots on the Action - Triggered panel, a popup with comes up.
@@ -175,37 +147,6 @@ Your Action has “Active” status and in several minutes you will see the data
 
 ![](<.gitbook/assets/274563093 (1).jpg>)
 
-
-
-
-
-
-
-* [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
-* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#actionscreaterecurring)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
-* [Single Send Action](optikpi-user-guide-actions.md#actions-singlesendaction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#actions-createsinglesendaction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#actions-editsinglesendaction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#actions-clonesinglesendaction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#actions-deletesinglesendaction)
-* [Email Actions](optikpi-user-guide-actions.md#actions-emailactions)
-  * [Email action creation](optikpi-user-guide-actions.md#actions-emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport)
-* [Push Notification](optikpi-user-guide-actions.md#actions-pushnotification)
-  * [Push action creation](optikpi-user-guide-actions.md#actions-pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.1)
-* [SMS Action](optikpi-user-guide-actions.md#actions-smsaction)
-  * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
-
 ### Clone Triggered Action <a href="#actions-clonetriggeredaction" id="actions-clonetriggeredaction"></a>
 
 Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
@@ -238,37 +179,6 @@ Your Action has “Active” status and in several minutes you will see the data
 
 ![](<.gitbook/assets/274563093 (1).jpg>)
 
-
-
-
-
-
-
-* [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
-* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#actionscreaterecurring)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
-* [Single Send Action](optikpi-user-guide-actions.md#actions-singlesendaction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#actions-createsinglesendaction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#actions-editsinglesendaction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#actions-clonesinglesendaction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#actions-deletesinglesendaction)
-* [Email Actions](optikpi-user-guide-actions.md#actions-emailactions)
-  * [Email action creation](optikpi-user-guide-actions.md#actions-emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport)
-* [Push Notification](optikpi-user-guide-actions.md#actions-pushnotification)
-  * [Push action creation](optikpi-user-guide-actions.md#actions-pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.1)
-* [SMS Action](optikpi-user-guide-actions.md#actions-smsaction)
-  * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
-
 ### Delete Triggered Action <a href="#actions-deletetriggeredaction" id="actions-deletetriggeredaction"></a>
 
 By Clicking on 3 dots on the Action panel, a popup with comes up.
@@ -279,16 +189,15 @@ The “Proceed to Delete” button allows to delete Actions.
 
 ![](.gitbook/assets/274989072.jpg)
 
+## &#x20;<a href="#actionsrecurring" id="actionsrecurring"></a>
 
-
-*
 * [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
   * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
   * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
   * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
-* [Recurring Action](optikpi-user-guide-actions.md#actions-recurringaction)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#actions-createrecurringaction)
+* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring-1)
+  * [Create Recurring Action](optikpi-user-guide-actions.md#actionsrecurring-1)
   * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
   * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
   * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
@@ -426,35 +335,6 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 ![](<.gitbook/assets/274563093 (1).jpg>)
 
-
-
-
-
-* [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#actions-createtriggeredaction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#actions-edittriggeredaction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#actions-clonetriggeredaction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#actions-deletetriggeredaction)
-* [Recurring Action](optikpi-user-guide-actions.md#actionsrecurring)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#actionscreaterecurring)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#actions-editrecurringaction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#actions-clonerecurringaction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#actions-deleterecurringaction)
-* [Single Send Action](optikpi-user-guide-actions.md#actions-singlesendaction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#actions-createsinglesendaction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#actions-editsinglesendaction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#actions-clonesinglesendaction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#actions-deletesinglesendaction)
-* [Email Actions](optikpi-user-guide-actions.md#actions-emailactions)
-  * [Email action creation](optikpi-user-guide-actions.md#actions-emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport)
-* [Push Notification](optikpi-user-guide-actions.md#actions-pushnotification)
-  * [Push action creation](optikpi-user-guide-actions.md#actions-pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.1)
-* [SMS Action](optikpi-user-guide-actions.md#actions-smsaction)
-  * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
-
 ### Edit Recurring Action <a href="#actions-editrecurringaction" id="actions-editrecurringaction"></a>
 
 I. By clicking on 3 dots on the Action - Scheduled panel, a popup with comes up.
@@ -491,6 +371,42 @@ Your Action has “Active” status and in several minutes you will see the data
 
 
 
+### Clone Recurring Action <a href="#actions-clonerecurringaction" id="actions-clonerecurringaction"></a>
+
+Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
+
+I. To clone Recurring Action click on 3 dots on the Action - Scheduled panel and a popup with comes up.
+
+![](.gitbook/assets/271515921.jpg)
+
+2\. Press the “Next” button to continue.
+
+![](<.gitbook/assets/271843381 (1).jpg>)
+
+3\. You can change Template or go ahead.
+
+![](.gitbook/assets/271253685.jpg)
+
+4\. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
+
+![](.gitbook/assets/269222224.jpg)
+
+5\. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
+
+Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
+
+![](.gitbook/assets/271450201.jpg)
+
+### Delete Recurring Action <a href="#actions-deleterecurringaction" id="actions-deleterecurringaction"></a>
+
+By Clicking on 3 dots on the Action panel, a popup with comes up.
+
+![](.gitbook/assets/274563083.jpg)
+
+The “Proceed to Delete” button allows to delete Actions.
+
+![](.gitbook/assets/274989072.jpg)
+
 
 
 * [Triggered Action](optikpi-user-guide-actions.md#actions-triggeredaction)
@@ -518,95 +434,7 @@ Your Action has “Active” status and in several minutes you will see the data
   * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
 
-### Clone Recurring Action <a href="#actions-clonerecurringaction" id="actions-clonerecurringaction"></a>
 
-Optikpi has a "clone" feature which allows you to create absolutely the same tool with the same setting criteria and database.
-
-I. To clone Recurring Action click on 3 dots on the Action - Scheduled panel and a popup with comes up.
-
-![](.gitbook/assets/271515921.jpg)
-
-2\. Press the “Next” button to continue.
-
-![](<.gitbook/assets/271843381 (1).jpg>)
-
-3\. You can change Template or go ahead.
-
-![](.gitbook/assets/271253685.jpg)
-
-4\. Click to the "Save and Launch" button - in case if you want to save and launch your campaign or "Save" in case if you want just to save one.
-
-![](.gitbook/assets/269222224.jpg)
-
-5\. "Save and Launch" means that your campaign will be re-scheduled to run every 5 minutes since launched till date which you pointed.
-
-Your Action has “Active” status and in several minutes you will see the data and Action Tracking.
-
-![](.gitbook/assets/271450201.jpg)
-
-
-
-* [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#Actions-EditTriggeredAction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#Actions-CloneTriggeredAction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#Actions-DeleteTriggeredAction)
-* [Recurring Action](optikpi-user-guide-actions.md#Actions-RecurringAction)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#Actions-CreateRecurringAction)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#Actions-EditRecurringAction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#Actions-CloneRecurringAction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#Actions-DeleteRecurringAction)
-* [Single Send Action](optikpi-user-guide-actions.md#Actions-SingleSendAction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#Actions-CreateSingleSendAction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#Actions-EditSingleSendAction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#Actions-CloneSingleSendAction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#Actions-DeleteSingleSendAction)
-* [Email Actions](optikpi-user-guide-actions.md#Actions-EmailActions)
-  * [Email action creation](optikpi-user-guide-actions.md#Actions-Emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport)
-* [Push Notification](optikpi-user-guide-actions.md#Actions-PushNotification)
-  * [Push action creation](optikpi-user-guide-actions.md#Actions-Pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.1)
-* [SMS Action](optikpi-user-guide-actions.md#Actions-SMSAction)
-  * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
-
-### Delete Recurring Action <a href="#actions-deleterecurringaction" id="actions-deleterecurringaction"></a>
-
-By Clicking on 3 dots on the Action panel, a popup with comes up.
-
-![](.gitbook/assets/274563083.jpg)
-
-The “Proceed to Delete” button allows to delete Actions.
-
-![](.gitbook/assets/274989072.jpg)
-
-
-
-* [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
-  * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)
-  * [Edit Triggered Action](optikpi-user-guide-actions.md#Actions-EditTriggeredAction)
-  * [Clone Triggered Action](optikpi-user-guide-actions.md#Actions-CloneTriggeredAction)
-  * [Delete Triggered Action](optikpi-user-guide-actions.md#Actions-DeleteTriggeredAction)
-* [Recurring Action](optikpi-user-guide-actions.md#Actions-RecurringAction)
-  * [Create Recurring Action](optikpi-user-guide-actions.md#Actions-CreateRecurringAction)
-  * [Edit Recurring Action](optikpi-user-guide-actions.md#Actions-EditRecurringAction)
-  * [Clone Recurring Action](optikpi-user-guide-actions.md#Actions-CloneRecurringAction)
-  * [Delete Recurring Action](optikpi-user-guide-actions.md#Actions-DeleteRecurringAction)
-* [Single Send Action](optikpi-user-guide-actions.md#Actions-SingleSendAction)
-  * [Create Single Send Action](optikpi-user-guide-actions.md#Actions-CreateSingleSendAction)
-  * [Edit Single Send Action](optikpi-user-guide-actions.md#Actions-EditSingleSendAction)
-  * [Clone Single Send Action](optikpi-user-guide-actions.md#Actions-CloneSingleSendAction)
-  * [Delete Single Send Action](optikpi-user-guide-actions.md#Actions-DeleteSingleSendAction)
-* [Email Actions](optikpi-user-guide-actions.md#Actions-EmailActions)
-  * [Email action creation](optikpi-user-guide-actions.md#Actions-Emailactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport)
-* [Push Notification](optikpi-user-guide-actions.md#Actions-PushNotification)
-  * [Push action creation](optikpi-user-guide-actions.md#Actions-Pushactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.1)
-* [SMS Action](optikpi-user-guide-actions.md#Actions-SMSAction)
-  * [SMS action creation](optikpi-user-guide-actions.md#Actions-SMSactioncreation)
-  * [Action Report](optikpi-user-guide-actions.md#Actions-ActionReport.2)
 
 ## Single Send Action <a href="#actions-singlesendaction" id="actions-singlesendaction"></a>
 
