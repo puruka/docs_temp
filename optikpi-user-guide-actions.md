@@ -298,9 +298,9 @@ The “Proceed to Delete” button allows to delete Actions.
   * [SMS action creation](optikpi-user-guide-actions.md#actions-smsactioncreation)
   * [Action Report](optikpi-user-guide-actions.md#actions-actionreport.2)
 
-## Recurring Action <a href="#actions-recurringaction" id="actions-recurringaction"></a>
+## Recurring Action <a href="#actionsrecurring" id="actionsrecurring"></a>
 
-### Create Recurring Action <a href="#actions-createrecurringaction" id="actions-createrecurringaction"></a>
+### Create Recurring Action <a href="#actionscreaterecurring" id="actionscreaterecurring"></a>
 
 **This tutorial video will help you to Create a Launch One Time Scheduled Email Action**
 
