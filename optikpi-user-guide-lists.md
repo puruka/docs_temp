@@ -79,7 +79,7 @@ I. Start creating a List by pressing the "New Customer List" button From the "Li
 
 9\. Clicking on the field **X** you can delete data from the list.
 
-![](<.gitbook/assets/image (6) (1).png>)
+![](<.gitbook/assets/image (6) (1) (1).png>)
 
 10\. Map the following details from the List fields.
 

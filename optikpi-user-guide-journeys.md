@@ -119,7 +119,7 @@ I. At the top left of the sketchbook, you’ll notice a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
 2\. Click this icon, it will allow you to choose the "Re-arrange" command.
 
@@ -133,7 +133,7 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 2\. Click this icon, it will allow you to choose the "Clear" command.
 
@@ -151,7 +151,7 @@ I. At the top left of the sketchbook, find a tool icon.&#x20;
 
 I. At the top left of the sketchbook, find a tool icon.&#x20;
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
 2\. Click this icon, it will allow you to choose the "Activate" command.
 
@@ -411,7 +411,7 @@ I. Start from the main "Journeys" home screen.
 
 During the editing Journey only the Enter Journey block is not editable. The rest of all are editable. As well as you can change, add or delete Action’s block to the Journey (SMS, email, Push or Web API).
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (2).png>)
 
 6\. To finish find the Service tools icon at the right part of the Navigation bar and press the “Save” button.&#x20;
 
@@ -423,7 +423,7 @@ During the editing Journey only the Enter Journey block is not editable. The res
 
 8\. Confirm Start and End Date.
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 Your journey activated successfully.
 

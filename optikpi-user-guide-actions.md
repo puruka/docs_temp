@@ -346,17 +346,30 @@ Scheduled Action can be scheduled up to 1 hour in advance.
 
 5\. Or you can choose “**Recurring Scheduled**” as a Scheduled type.
 
-![](.gitbook/assets/272236591.jpg)
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-In this case, you have to set Start and End Date of your Action
+There are two **schedule types** available:&#x20;
 
-![](.gitbook/assets/272236597.jpg)
+**One Time** – Action will be sent once to the User, it will trigger next time only for new-come users.\
+**Many Times** – Action can be sent many times to all users from the Segment.
 
-And set Launch Time for your Campaign.
+Press "Yes" if you confirm Many Times sending.
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+Set Start and End Date of your Action.
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+At the Launch Time Box change the Schedule
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Scheduled Action can be scheduled up to 1 hour in advance.
-
-![](.gitbook/assets/272236603.jpg)
 
 Clicking on “Change Schedule” you will find yourself in the Scheduler where you can choose the time plan for your Action.\
 For example, your Campaign can take place every Monday at 12:00 pm.
