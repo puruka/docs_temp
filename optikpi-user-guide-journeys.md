@@ -405,7 +405,7 @@ I. Start from the main "Journeys" home screen.
 
 4\. Confirm Edit.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (2).png>)
 
 5\. The feature inactives Journey during edit, allows you to put some changes, add / delete blocks of actions, then Journey needs to be activated again manually.&#x20;
 

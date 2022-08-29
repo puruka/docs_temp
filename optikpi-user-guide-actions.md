@@ -363,40 +363,33 @@ Press "Yes" if you confirm Many Times sending.
 
 Set Start and End Date of your Action.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
-At the Launch Time Box change the Schedule
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+At the Launch Time Box change the Schedule.
 
 Scheduled Action can be scheduled up to 1 hour in advance.
 
-Clicking on “Change Schedule” you will find yourself in the Scheduler where you can choose the time plan for your Action.\
-For example, your Campaign can take place every Monday at 12:00 pm.
-
-![](.gitbook/assets/272236609.jpg)
-
-![](.gitbook/assets/272236615.jpg)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 6\. Closing Scheduler, click the “Next” button to continue.
 
-![](.gitbook/assets/272236621.jpg)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-7\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or ExistingActions.
+7\. Set Criteria you want to trigger the action: Existing Card, Existing Segments, or Existing Actions.
 
-![](.gitbook/assets/271253645.jpg)
+<figure><img src=".gitbook/assets/2022_08_29 1.jpg" alt=""><figcaption></figcaption></figure>
 
 8\. Press the “Execute” button to see the data.
 
-![](.gitbook/assets/272302087.jpg)
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 9\. Press the “Next” button to go to the next step.
 
-![](.gitbook/assets/268370124.jpg)
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 10\. Create a Template of your Action.
 
-![](.gitbook/assets/271253653.jpg)
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 11\. Press the “Next” button to continue.
 
@@ -1096,7 +1089,7 @@ Your Action has “Active” status and in several minutes you will see the data
 
 17\.  "Save" means that your campaign will be saved with an “Inactive” status. You can change status and launch Action at any time.
 
-![](<.gitbook/assets/image (7) (1).png>)
+![](<.gitbook/assets/image (7) (1) (1).png>)
 
 * [Triggered Action](optikpi-user-guide-actions.md#Actions-TriggeredAction)
   * [Create Triggered Action](optikpi-user-guide-actions.md#Actions-CreateTriggeredAction)

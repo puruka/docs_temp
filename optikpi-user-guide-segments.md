@@ -120,7 +120,7 @@ _**Deactivated Segments are not available for Actions creation.**_
 
 Check if your page is in the Card View Mode.
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (2).png>)
 
 2\. The activation toggle switcher is located in the in the lower right corner of the segment card.
 
