@@ -128,9 +128,16 @@ Check if your page is in the Card View Mode.
 
 3\. For state changing of the Segment click on the Toggle once.
 
-![](.gitbook/assets/inactive1.gif)
+<figure><img src=".gitbook/assets/2022-10-07 1.gif" alt=""><figcaption></figcaption></figure>
 
 _**Deactivated Segments are not available in the Dashboards.**_&#x20;
 
-_**Deactivated Segments are not available for Actions creation.**_
+_**Deactivated Segments are not available for Actions creation.**_&#x20;
 
+_**Deactivated Segments are not availible for editing and updating.**_
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+_****_
+
+~~``~~

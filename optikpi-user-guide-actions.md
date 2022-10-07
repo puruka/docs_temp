@@ -271,7 +271,7 @@ There are two **schedule types** available:&#x20;
 
 Press "Yes" if you confirm Many Times sending.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -283,7 +283,7 @@ Set Start and End Date of your Action.
 
 At the Launch Time Box change the Schedule.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Scheduled Action can be scheduled up to 1 hour in advance.
 
