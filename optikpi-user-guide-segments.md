@@ -1,5 +1,6 @@
 # Optikpi User Guide : Segments
 
+* [Rule Engine](optikpi-user-guide-segments.md#rule-engine)
 * [Create](optikpi-user-guide-segments.md#segments-create)
 * [Download](optikpi-user-guide-segments.md#segments-download)
 * [Add action to Segment](optikpi-user-guide-segments.md#segments-addactiontosegment)
@@ -11,6 +12,57 @@
 Segments represent unique players of given Lists based on different criterias. Segments can be bounded to several Retention Lists.
 
 Use segments to create higher level customer buckets.
+
+## Rule Engine
+
+### Include Filter > Rule
+
+which identifies the root rule to which the filter is applied.
+
+Rules for the criteria of a string data (User ID, USERNAME, EMAIL ID) can be presented in the next values:
+
+* equal (you should specify the value, or copy paste it)
+* not equal (you should specify the value, or copy paste it)
+* Exists (Fields with existing data)
+* Not Exists (Fields where there is no data)
+* Empty (empty Fields)
+* Not Empty (not empty Fields)&#x20;
+* one of (you can select multiple values from the dropdown)
+* not one of (you can select multiple values from the dropdown)
+
+### Include Filter > +Add Rule
+
+Operators OR/AND are used between different rules in your Segment to help you build more sophisticated segments.
+
+In Include filter
+
+AND: if you want the (outcome) users to satisfy all the conditions specified in the Include block ( multiple rules)
+
+OR : if you want the (outcome) users to satisfy any one of the rules specified in the include block&#x20;
+
+AND feature combines two or more conditions and produces results that satisfy both.
+
+Example for AND: Status of deposit success AND the sum of deposit more than 10 Euros. The result will strictly contain players who made a successful deposit of more than 10 Euros.
+
+OR feature combines two or more conditions and produces results that satisfy either one or the other.
+
+Example for OR: Status of deposit success OR the sum of deposit more than 10 Euros. The result will contain data of all players who have a successful deposit and also data of players whose deposit exceeds 10 Euros.
+
+AND Filters are usually used in most cases with Include filter.
+
+## Exclude Filter > Rule
+
+if the out-coming users of the exclude block has to satisfy each and every rule defined inside exclude block, then AND should be used,
+
+if the out-coming users of the exclude block has to satisfy any one of the rules (users satisfying any one of the rules individually), OR should be used.
+
+Out-coming users - these are the users we want to exclude from the segment.
+
+For example,
+
+You can use OR Filter for boosting responsible gaming - you can Exclude all the users whose account is either frozen OR inactive OR closed.  In this case out-coming users satisfying any one of the rules individually, so they will not be presented in the Segment.
+
+You can use AND Filter if you want to exclude those users who satisfy all pointed criterias, it means that among out-coming users will be only whose account is frozen AND inactive AND closed. Users whose account is only frozen, but not inactive will be presented in the Segment, as well as users whose account is only inactive, but not frozen.
 
 ## Create <a href="#segments-create" id="segments-create"></a>
 
